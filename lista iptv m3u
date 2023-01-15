@@ -1,0 +1,2044 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="Canal1.co" tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" audio-track="ES", Canal 1 (720P)
+#EXTGRP:General
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/48311
+#EXTINF: -1 tvg-id="CanalCapital.co" tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Canal_capital_logo_2007.PNG/640px-Canal_capital_logo_2007.PNG", Canal Capital (1080p)
+#EXTGRP:General
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
+#EXTINF: -1 tvg-id="CanalInstitucionalTV.co" tvg-chno="3" tvg-logo="https://i.imgur.com/OzxNMDM.png", Canal Institucional
+#EXTGRP:General
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="SenalColombia.co" tvg-chno="4" tvg-logo="https://i.imgur.com/Y9x16vl.png", Señal Colombia (1080p)
+#EXTGRP:General
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="SEOTV.bo" tvg-chno="5" tvg-logo="https://i.imgur.com/5IPjtJk.png", SEO TV (1080p)
+#EXTGRP:General
+https://live.seo.tv.bo/live/1SEO.m3u8
+#EXTINF: -1 tvg-id="Caracol Television" tvg-name="Caracol Television" tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" audio-track="ES", Caracol (HD)
+#EXTGRP:General
+http://158.69.52.98:25461/salcedohia/22yv0XS7rt/49
+#EXTINF: -1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" tvg-chno="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/512px-RCN_Novelas_logo_2019.png" audio-track="ES", RCN Novelas (sd)
+#EXTGRP:General
+http://158.69.52.98:25461/salcedohia/22yv0XS7rt/2579
+#EXTINF: -1 tvg-id="RCN.co" tvg-name="RCN oficial" tvg-chno="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/512px-Canal_RCN_logo_%282%29.svg.png" audio-track="ES", RCN Nuestra Tele
+#EXTGRP:General
+http://158.69.52.98:25461/salcedohia/22yv0XS7rt/52
+#EXTINF: -1 tvg-id="CitytvBogotá.co" tvg-name="Citytv Bogotá" tvg-chno="10" tvg-logo="https://i.imgur.com/ybSn8tp.png" audio-track="ES", Citytv
+#EXTGRP:General
+http://158.69.52.98:25461/salcedohia/22yv0XS7rt/2675
+#EXTINF: -1 tvg-id="DirecTVSportsColombia.co" tvg-name="DirecTV Sports Colombia" tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" audio-track="ES", Directv
+#EXTGRP:General
+http://158.69.52.98:25461/salcedohia/22yv0XS7rt/842
+#EXTINF: -1 tvg-id="Canal1.co" tvg-name="Canal 1" tvg-chno="12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" audio-track="ES", Canal Uno (FHD)
+#EXTGRP:General
+http://158.69.52.98:25461/salcedohia/22yv0XS7rt/1570
+#EXTINF: -1 tvg-id="ext" tvg-chno="13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/135px-2020_Canal_Capital_logo.svg.png", Canal Capital CO
+#EXTGRP:General
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/15673
+#EXTINF: -1 tvg-id="ext" tvg-chno="14", Fox Sports 2 HD CO
+#EXTGRP:General
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/15658
+#EXTINF: -1 tvg-id="ext" tvg-chno="15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/250px-Teleantioquia_logo.svg.png", Teleantioquia CO
+#EXTGRP:General
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/628999
+#EXTINF: -1 tvg-id="ext" tvg-chno="16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png", AXN CO
+#EXTGRP:General
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/21345
+#EXTINF: -1 tvg-id="ext" tvg-chno="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/200px-Cartoonito_-_Logo_2021.svg.png", cartonnito CO
+#EXTGRP:General
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/21340
+#EXTINF: -1 tvg-id="ext" tvg-chno="18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/175px-Cable_Noticias_logo.svg.png", Cablenoticias HD CO
+#EXTGRP:General
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/21339
+#EXTINF: -1 tvg-id="ext" tvg-chno="19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/150px-Cine_Latino_logo.svg.png", Cine Latino CO
+#EXTGRP:General
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/21333
+#EXTINF: -1 tvg-id="ext" tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/200px-Comedy_Central_2018.svg.png", Comedy Central HD CO
+#EXTGRP:General
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/21328
+#EXTINF: -1 tvg-id="ext" tvg-chno="21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/250px-DPel%C3%ADcula_2021.svg.png", De Pelicula CO
+#EXTGRP:General
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/21324
+#EXTINF: -1 tvg-id="ext" tvg-chno="22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png", Discovery Channel CO
+#EXTGRP:General
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/21323
+#EXTINF: -1 tvg-id="ext" tvg-chno="23", RCN HD CO
+#EXTGRP:General
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/629052
+#EXTINF: -1 tvg-id="ext" tvg-chno="24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/200px-Se%C3%B1al_Colombia_logo.svg.png", Senal Colombia HD CO
+#EXTGRP:General
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/629054
+#EXTINF: -1 tvg-id="ext" tvg-chno="25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/WinSports2022.png/150px-WinSports2022.png", Win Sports CO
+#EXTGRP:General
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/629053
+#EXTINF: -1 tvg-id="azteca7.mx" tvg-name="AZTECA 7" tvg-chno="28" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/959px-Logo_Azteca_7_2011.svg.png", AZTECA 7
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86966
+#EXTINF: -1 tvg-name="AZTECA CINEMA" tvg-chno="29", AZTECA CINEMA
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86967
+#EXTINF: -1 tvg-name="AZTECA CORAZON" tvg-chno="30", AZTECA CORAZON
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86968
+#EXTINF: -1 tvg-name="BITME" tvg-chno="31" tvg-logo="http://iptvglobal.site:25461/images/8fdcaf15d7cb14bd280e8614a61395de.png", BITME
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86970
+#EXTINF: -1 tvg-name="BOOMERANG" tvg-chno="32", BOOMERANG
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86971
+#EXTINF: -1 tvg-name="CANAL 5" tvg-chno="33" tvg-logo="http://iptvglobal.site:25461/images/ba160487decb1da597d3ca8bbe9d8d60.png", CANAL 5
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86972
+#EXTINF: -1 tvg-name="CINECANAL" tvg-chno="34" tvg-logo="https://i.picasion.com/pic92/ee6531277e68167d2660e5f870202c9f.gif", CINECANAL
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86973
+#EXTINF: -1 tvg-name="CINEMAX" tvg-chno="35" tvg-logo="https://i.picasion.com/pic92/11f3ea49958c10318513030f69fa2bee.gif", CINEMAX
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86974
+#EXTINF: -1 tvg-name="DISTRITO COMEDIA" tvg-chno="36", DISTRITO COMEDIA
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86976
+#EXTINF: -1 tvg-name="E! ENTERTAINMENT" tvg-chno="37", E! ENTERTAINMENT
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86977
+#EXTINF: -1 tvg-name="ESPN HD" tvg-chno="38", ESPN HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86978
+#EXTINF: -1 tvg-name="ESPN 2 HD" tvg-chno="39", ESPN 2 HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86979
+#EXTINF: -1 tvg-name="ESPN 3 HD" tvg-chno="40", ESPN 3 HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86980
+#EXTINF: -1 tvg-name="FOX CHANNEL HD" tvg-chno="41" tvg-logo="https://i.picasion.com/pic92/dc53e6bb4b2b012abcbb2e5129b8fc51.gif", FOX CHANNEL HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86982
+#EXTINF: -1 tvg-name="FOX SPORTS HD" tvg-chno="42", FOX SPORTS HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86988
+#EXTINF: -1 tvg-id="fx.mx" tvg-name="FX HD" tvg-chno="44" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png", FX HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86990
+#EXTINF: -1 tvg-name="FXM HD" tvg-chno="45" tvg-logo="https://i.picasion.com/pic92/7e11e154ea8506a703973f3189f9c4cf.gif", FXM HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86991
+#EXTINF: -1 tvg-id="golden.mx" tvg-name="GOLDEN HD" tvg-chno="46" tvg-logo="http://iptvglobal.site:25461/images/4cac40f10785feb06d22b9c2ef655d23.png", GOLDEN HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86992
+#EXTINF: -1 tvg-id="goldenedge.mx" tvg-name="GOLDEN EDGE HD" tvg-chno="47" tvg-logo="https://i.picasion.com/pic92/5f09b99c9da386bf38734fb7b73abc6e.gif", GOLDEN EDGE HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86993
+#EXTINF: -1 tvg-id="historyhd.mx" tvg-name="HISTORIA HD" tvg-chno="48" tvg-logo="http://iptvglobal.site:25461/images/487fd6056faadb1d0eb127a0ed49d482.png", HISTORIA HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86994
+#EXTINF: -1 tvg-id="imagentv.mx" tvg-name="IMAGEN TV HD" tvg-chno="49" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png", IMAGEN TV HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86995
+#EXTINF: -1 tvg-id="xhtm.es" tvg-name="CANAL DE LAS ESTRELLAS -2HRS HD" tvg-chno="50" tvg-logo="http://iptvglobal.site:25461/images/0ed9404d458cfd868328bc7a08eb4e5f.png", CANAL DE LAS ESTRELLAS -2HRS HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86996
+#EXTINF: -1 tvg-id="lifetime.mx" tvg-name="LIFETIME HD" tvg-chno="51" tvg-logo="http://iptvglobal.site:25461/images/98a2245eb8327ea202772dee3062f094.png", LIFETIME HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86997
+#EXTINF: -1 tvg-id="mileniotelevision.mx" tvg-name="MILENIO HD" tvg-chno="52" tvg-logo="http://iptvglobal.site:25461/images/a53f718d20371f1c5ecfecd62f801a58.png", MILENIO HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86998
+#EXTINF: -1 tvg-id="mtv.mx" tvg-name="MTV HD" tvg-chno="53" tvg-logo="https://i.picasion.com/pic92/02dbe5b145e031710ef8b29f929ce895.gif", MTV HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86999
+#EXTINF: -1 tvg-name="NICK HD" tvg-chno="54" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png", NICK HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87002
+#EXTINF: -1 tvg-name="PARAMOUNT HD" tvg-chno="55" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3b/Paramount_Channel_logo.svg/1200px-Paramount_Channel_logo.svg.png", PARAMOUNT HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87004
+#EXTINF: -1 tvg-name="SONY HD" tvg-chno="56" tvg-logo="http://iptvglobal.site:25461/images/9ae2767f15b15da469c307585dd350c0.png", SONY HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87005
+#EXTINF: -1 tvg-name="SPACE HD" tvg-chno="57" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1024px-SpaceLogo.svg.png", SPACE HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87006
+#EXTINF: -1 tvg-name="SYFY HD" tvg-chno="58" tvg-logo="https://i.picasion.com/pic92/87d87287cb8599c3f4014112af21b2d5.gif", SYFY HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87007
+#EXTINF: -1 tvg-name="TBS HD" tvg-chno="59", TBS HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87008
+#EXTINF: -1 tvg-name="TELEHIT HD" tvg-chno="60" tvg-logo="http://iptvglobal.site:25461/images/41f742fe33ed29ce51863f236bd6c73b.png", TELEHIT HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87009
+#EXTINF: -1 tvg-id="tntseries.mx" tvg-name="TNT SERIES HD" tvg-chno="61" tvg-logo="https://i.picasion.com/pic92/c4b662c0b6f09e50fecd8392bd6f3721.gif", TNT SERIES HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87010
+#EXTINF: -1 tvg-id="trutv.mx" tvg-name="TRUTV HD" tvg-chno="62" tvg-logo="https://i.picasion.com/pic92/7c4e8694f6496f257495f7b195018868.gif", TRUTV HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87011
+#EXTINF: -1 tvg-id="unicable.mx" tvg-name="UNICABLE HD" tvg-chno="63" tvg-logo="https://i.picasion.com/pic92/bf8c44e7f3ea273cb0dea516674d5989.gif", UNICABLE HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87012
+#EXTINF: -1 tvg-id="universalchannel.mx" tvg-name="UNIVERSAL CHANNEL HD" tvg-chno="64" tvg-logo="http://iptvglobal.site:25461/images/c72dc58420bf5bb9bfd5792b75564396.png", UNIVERSAL CHANNEL HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87013
+#EXTINF: -1 tvg-id="warnerchannel.mx" tvg-name="WARNER CHANNEL HD" tvg-chno="65" tvg-logo="https://i.picasion.com/pic92/538eab0aa4a1fcc9978674b4c8ef6ab5.gif", WARNER CHANNEL HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87014
+#EXTINF: -1 tvg-name="ADN 40 HD" tvg-chno="66" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/ADN_40_logo.png", ADN 40 HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87015
+#EXTINF: -1 tvg-name="HBO POP HD" tvg-chno="67" tvg-logo="http://iptvglobal.site:25461/images/97e21068a9bab4e4cce283960b479925.png", HBO POP HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87016
+#EXTINF: -1 tvg-id="tnt.mx" tvg-name="TNT HD" tvg-chno="68" tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif", TNT HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87017
+#EXTINF: -1 tvg-name="TUDN USA" tvg-chno="69" tvg-logo="https://worldsoccertalk.com/wp-content/uploads/2019/05/tudn-logo.png", TUDN USA
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87018
+#EXTINF: -1 tvg-id="discoverycivilization.mx" tvg-name="DISCOVERY CIVILIZATION HD" tvg-chno="70" tvg-logo="https://i.picasion.com/pic92/1613747113fa1d90554fc13786f0e8e3.gif", DISCOVERY CIVILIZATION HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87019
+#EXTINF: -1 tvg-id="foxsports3.mx" tvg-name="FOX SPORTS 3 HD" tvg-chno="71" tvg-logo="https://i.picasion.com/pic92/750f7e24fe0d3482e6c5b32048f66d6b.gif", FOX SPORTS 3 HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87020
+#EXTINF: -1 tvg-id="lasestrellas.mx" tvg-name="CANAL DE LAS ESTRELLAS HD CDMX" tvg-chno="72" tvg-logo="http://iptvglobal.site:25461/images/0ed9404d458cfd868328bc7a08eb4e5f.png", CANAL DE LAS ESTRELLAS HD CDMX
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87021
+#EXTINF: -1 tvg-id="hbo.mx" tvg-name="HBO HD" tvg-chno="73" tvg-logo="http://iptvglobal.site:25461/images/f0577f3af942bfa8f365e0fa7972dfb7.png", HBO HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87022
+#EXTINF: -1 tvg-id="hbo2.mx" tvg-name="HBO 2 HD" tvg-chno="74" tvg-logo="http://iptvglobal.site:25461/images/857cc1299f323b3da2c26cd013d0cc36.png", HBO 2 HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87023
+#EXTINF: -1 tvg-id="hbofamily.mx" tvg-name="HBO FAMILY HD" tvg-chno="75" tvg-logo="http://iptvglobal.site:25461/images/6ea796d2cc6be935f471325a6929784f.png", HBO FAMILY HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87024
+#EXTINF: -1 tvg-name="HBO MUNDI HD" tvg-chno="76" tvg-logo="http://iptvglobal.site:25461/images/2a299240b93fe53b5a52ef09e3ec3314.png", HBO MUNDI HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87025
+#EXTINF: -1 tvg-id="hboplus.mx" tvg-name="HBO PLUS HD" tvg-chno="77" tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif", HBO PLUS HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87026
+#EXTINF: -1 tvg-id="hbosignature.mx" tvg-name="HBO SIGNATURE HD" tvg-chno="78" tvg-logo="https://i.picasion.com/pic92/6c519615d610fb60cabc7b69db5cf0ae.gif", HBO SIGNATURE HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87027
+#EXTINF: -1 tvg-name="HBO EXTREME HD" tvg-chno="79" tvg-logo="http://iptvglobal.site:25461/images/227c5a7767e2742104de1c193474174b.png", HBO EXTREME HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87028
+#EXTINF: -1 tvg-name="MX|*DISTRITO COMEDIA HD" tvg-chno="80", MX|*DISTRITO COMEDIA HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87029
+#EXTINF: -1 tvg-id="discoveryhomeandhealth.mx" tvg-name="MX |* DISCOVERY H&H  HD" tvg-chno="81" tvg-logo="https://i.picasion.com/pic92/faf10db51834b400896db671f832e689.gif", MX |* DISCOVERY H&H  HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87030
+#EXTINF: -1 tvg-name="MX |* ADRENALINA FHD" tvg-chno="82" tvg-logo="http://iptvglobal.site:25461/images/e93a997acb6cec9aec51e64a21e77eac.png", MX |* ADRENALINA FHD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87032
+#EXTINF: -1 tvg-id="tlc.mx" tvg-name="MX |* TLC FHD" tvg-chno="83" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1024px-TLC_Logo.svg.png", MX |* TLC FHD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87033
+#EXTINF: -1 tvg-id="tbs.mx" tvg-name="MX |* TBS FHD" tvg-chno="84" tvg-logo="http://iptvglobal.site:25461/images/b830b40478efd1395ffa550bdf276b1c.png", MX |* TBS FHD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87035
+#EXTINF: -1 tvg-id="space.mx" tvg-name="MX |* SPACE HD" tvg-chno="85" tvg-logo="https://i.picasion.com/pic92/aadf9024bd5c5072014c38c6bef2ae71.gif", MX |* SPACE HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87036
+#EXTINF: -1 tvg-id="history2.mx" tvg-name="MX | * H2 MEXICO FHD" tvg-chno="86" tvg-logo="https://i.picasion.com/pic92/922153f65537df6fe62f9e56fb591f4b.gif", MX | * H2 MEXICO FHD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87038
+#EXTINF: -1 tvg-name="MX |* HBO XTREME HD" tvg-chno="87" tvg-logo="http://iptvglobal.site:25461/images/227c5a7767e2742104de1c193474174b.png", MX |* HBO XTREME HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87041
+#EXTINF: -1 tvg-id="hbofamily.mx" tvg-name="MX |* HBO FAMILY HD" tvg-chno="88" tvg-logo="http://iptvglobal.site:25461/images/6ea796d2cc6be935f471325a6929784f.png", MX |* HBO FAMILY HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87042
+#EXTINF: -1 tvg-id="hbo2.mx" tvg-name="MX |* HBO 2 HD" tvg-chno="89" tvg-logo="http://iptvglobal.site:25461/images/857cc1299f323b3da2c26cd013d0cc36.png", MX |* HBO 2 HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87045
+#EXTINF: -1 tvg-id="aymsports.mx" tvg-name="MX |* GOLDEN PREMIER HD" tvg-chno="90" tvg-logo="https://i.picasion.com/pic92/db3c9ce4ecae857cb6575b4db00c26fb.gif", MX |* GOLDEN PREMIER HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87048
+#EXTINF: -1 tvg-id="foxsports3.mx" tvg-name="MX |* FOX SPORTS 3 HD" tvg-chno="91" tvg-logo="https://i.picasion.com/pic92/750f7e24fe0d3482e6c5b32048f66d6b.gif", MX |* FOX SPORTS 3 HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87053
+#EXTINF: -1 tvg-id="foxsports2.mx" tvg-name="MX |* FOX SPORTS 2 HD" tvg-chno="92" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/640px-2015_Fox_sports_logo.svg.png", MX |* FOX SPORTS 2 HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87054
+#EXTINF: -1 tvg-id="foxsports.mx" tvg-name="MX |* FOX SPORTS  1 HD" tvg-chno="93" tvg-logo="http://iptvglobal.site:25461/images/500cf40a8e8c37cbcc81a66265dc06d0.png", MX |* FOX SPORTS  1 HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87055
+#EXTINF: -1 tvg-name="MX |* FOX HD" tvg-chno="94" tvg-logo="http://iptvglobal.site:25461/images/e69e82a3266d6feab8cd2d7eebc7ebfe.png", MX |* FOX HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87062
+#EXTINF: -1 tvg-name="MX |* ESPN 1 HD" tvg-chno="95" tvg-logo="http://iptvglobal.site:25461/images/7e9f2faec802eb9cace2303034565400.png", MX |* ESPN 1 HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87067
+#EXTINF: -1 tvg-name="MX |* ESPN  XTRA HD" tvg-chno="96" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ESPN_Xtra_logo.svg/1280px-ESPN_Xtra_logo.svg.png", MX |* ESPN  XTRA HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87068
+#EXTINF: -1 tvg-name="MX |* E ENTERTAIN,MENT HD" tvg-chno="97" tvg-logo="http://iptvglobal.site:25461/images/1925294ef4492da4b990901ebab5396e.png", MENT HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87069
+#EXTINF: -1 tvg-name="MX |* COMEDY CENTRAL HD" tvg-chno="98" tvg-logo="https://i.picasion.com/pic92/30d2e21e2b372eab1b794b1f801b91be.gif", MX |* COMEDY CENTRAL HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87071
+#EXTINF: -1 tvg-name="MX |* DISCOVERY WORLD HD" tvg-chno="99" tvg-logo="http://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m790169_Discovery_World_HD.png", MX |* DISCOVERY WORLD HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87072
+#EXTINF: -1 tvg-name="MX |* DISCOVERY SCIENCE HD" tvg-chno="100" tvg-logo="https://i.picasion.com/pic92/f5abb98f8a86fefdf93a33eb1324f360.gif", MX |* DISCOVERY SCIENCE HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87074
+#EXTINF: -1 tvg-name="MX |* DISCOVERY THEATHER HD" tvg-chno="101" tvg-logo="https://i.picasion.com/pic92/75e37e438d6803fe9b58acec81ba18ce.gif", MX |* DISCOVERY THEATHER HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87076
+#EXTINF: -1 tvg-name="MX |* DISCOVERY ID HD" tvg-chno="102" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/923px-Investigation_Discovery_Logo_2018.svg.png", MX |* DISCOVERY ID HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87077
+#EXTINF: -1 tvg-name="MX |* CINECANAL HD" tvg-chno="103" tvg-logo="https://i.picasion.com/pic92/ee6531277e68167d2660e5f870202c9f.gif", MX |* CINECANAL HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87079
+#EXTINF: -1 tvg-name="MX |* FORO TV HD" tvg-chno="104" tvg-logo="http://iptvglobal.site:25461/images/20fb8fa142e28c3f998d5fefd1fb8848.png", MX |* FORO TV HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87080
+#EXTINF: -1 tvg-name="MX |* CANAL 5 XHGC HD" tvg-chno="105" tvg-logo="http://vignette1.wikia.nocookie.net/doblaje/images/b/b8/Logotipo_actual_del_canal_5_(mexico).png", MX |* CANAL 5 XHGC HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87081
+#EXTINF: -1 tvg-name="MX |* AZTECA 7 HD" tvg-chno="106" tvg-logo="http://iptvglobal.site:25461/images/1951c890e5c769c28e3f240c84d8a55c.png", MX |* AZTECA 7 HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87083
+#EXTINF: -1 tvg-name="MX |* AZTECA UNO HD" tvg-chno="107" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/7/78/Azteca_uno_logo_2018.png", MX |* AZTECA UNO HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87084
+#EXTINF: -1 tvg-name="MX |* AFIZZIONADOS HD" tvg-chno="108" tvg-logo="http://iptvglobal.site:25461/images/397e3fbccbed46ff43e9e8053fbcb024.png", MX |* AFIZZIONADOS HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87087
+#EXTINF: -1 tvg-name="MX |* ADN 40 HD" tvg-chno="109" tvg-logo="http://iptvglobal.site:25461/images/17445dd23171f1f523c94c561fd63072.png", MX |* ADN 40 HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87088
+#EXTINF: -1 tvg-name="MX |* TVC DEPORTES FHD" tvg-chno="110" tvg-logo="http://iptvglobal.site:25461/images/cf90e92b3b7ca14b0440c5385eeba682.png", MX |* TVC DEPORTES FHD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87090
+#EXTINF: -1 tvg-name="MX |* TELEHIT FHD" tvg-chno="111" tvg-logo="http://iptvglobal.site:25461/images/41f742fe33ed29ce51863f236bd6c73b.png", MX |* TELEHIT FHD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87092
+#EXTINF: -1 tvg-name="MX |* MTV FHD" tvg-chno="112" tvg-logo="http://iptvglobal.site:25461/images/44d0daf63320eba61e84bb8fd78ab3c1.png", MX |* MTV FHD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87094
+#EXTINF: -1 tvg-name="MX |* MAS CHIC FHD" tvg-chno="113" tvg-logo="http://iptvglobal.site:25461/images/ca800876e017cfb4a37803ba535dba2c.png", MX |* MAS CHIC FHD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87095
+#EXTINF: -1 tvg-name="MX |* FXM FHD" tvg-chno="114" tvg-logo="https://i.picasion.com/pic92/7e11e154ea8506a703973f3189f9c4cf.gif", MX |* FXM FHD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87098
+#EXTINF: -1 tvg-name="MX |* DISCOVERY KIDS FHD" tvg-chno="115" tvg-logo="https://i.picasion.com/pic92/a4b9d73aa8e92a6026851181611fbe31.gif", MX |* DISCOVERY KIDS FHD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87101
+#EXTINF: -1 tvg-name="MX |* BITME FHD" tvg-chno="116" tvg-logo="http://iptvglobal.site:25461/images/8fdcaf15d7cb14bd280e8614a61395de.png", MX |* BITME FHD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87102
+#EXTINF: -1 tvg-name="MX |* UNICABLE FHD" tvg-chno="117" tvg-logo="https://i.picasion.com/pic92/bf8c44e7f3ea273cb0dea516674d5989.gif", MX |* UNICABLE FHD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87104
+#EXTINF: -1 tvg-name="MX |* TOONCAST HD" tvg-chno="118" tvg-logo="https://i.picasion.com/pic92/982aa390a86f8be23076729b7ee71ab8.gif", MX |* TOONCAST HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87106
+#EXTINF: -1 tvg-name="MX |* TNT SERIES HD" tvg-chno="119" tvg-logo="https://i.picasion.com/pic92/c4b662c0b6f09e50fecd8392bd6f3721.gif", MX |* TNT SERIES HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87107
+#EXTINF: -1 tvg-name="MX |* TNT HD" tvg-chno="120" tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif", MX |* TNT HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87108
+#EXTINF: -1 tvg-name="MX |* AMC FHD" tvg-chno="121" tvg-logo="https://i.picasion.com/pic92/1a9e2244d60e2df63667c62c8f33da29.gif", MX |* AMC FHD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87109
+#EXTINF: -1 tvg-name="MX |* DISCOVERY TLC FHD" tvg-chno="122" tvg-logo="http://iptvglobal.site:25461/images/7d951053ef3ae3ccb9a8efd2f12e1394.png", MX |* DISCOVERY TLC FHD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87110
+#EXTINF: -1 tvg-name="MX |* TUDN HD" tvg-chno="123" tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png", MX |* TUDN HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87111
+#EXTINF: -1 tvg-name="MX |* OUTDOOR HD" tvg-chno="124" tvg-logo="http://iptvglobal.site:25461/images/ab5def8d800a923e9816f2c4386b09a3.png", MX |* OUTDOOR HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87113
+#EXTINF: -1 tvg-name="MX |* NICKTOONS HD" tvg-chno="125" tvg-logo="https://i.picasion.com/pic92/e97183af8daaa012b02156e14d1ddecf.gif", MX |* NICKTOONS HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87114
+#EXTINF: -1 tvg-name="MX |* iSAT HD" tvg-chno="126" tvg-logo="https://i.picasion.com/pic92/74f80ed7a976d91513b8a09675528702.gif", MX |* iSAT HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87117
+#EXTINF: -1 tvg-name="MX |* HBO SIGNATURE HD" tvg-chno="127" tvg-logo="https://i.picasion.com/pic92/6c519615d610fb60cabc7b69db5cf0ae.gif", MX |* HBO SIGNATURE HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87119
+#EXTINF: -1 tvg-name="MX |* HBO POP HD" tvg-chno="128" tvg-logo="http://iptvglobal.site:25461/images/97e21068a9bab4e4cce283960b479925.png", MX |* HBO POP HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87120
+#EXTINF: -1 tvg-name="MX |* HBO PLUS HD" tvg-chno="129" tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif", MX |* HBO PLUS HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87121
+#EXTINF: -1 tvg-id="aymsports.mx" tvg-name="MX |* COMEDY CENTRAL HD" tvg-chno="130" tvg-logo="https://i.picasion.com/pic92/30d2e21e2b372eab1b794b1f801b91be.gif", MX |* COMEDY CENTRAL HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87122
+#EXTINF: -1 tvg-id="studiouniversal.mx" tvg-name="MX |* ESTUDIO UNIVERSAL HD" tvg-chno="131" tvg-logo="https://i.picasion.com/pic92/c95b572dc3ef1b0e464273ec25bd7523.gif", MX |* ESTUDIO UNIVERSAL HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87123
+#EXTINF: -1 tvg-name="MX |* CARTOON NETWORK HD" tvg-chno="132" tvg-logo="https://i.picasion.com/pic92/b1f38c6755faad12fdf555290c877050.gif", MX |* CARTOON NETWORK HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87124
+#EXTINF: -1 tvg-name="CNN MEXICO" tvg-chno="134" tvg-logo="http://iptvglobal.site:25461/images/7f074648c94db878c71f60fd2fb910a7.png", CNN MEXICO
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124467
+#EXTINF: -1 tvg-name="CANAL NU9VE HD" tvg-chno="135", CANAL NU9VE HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124469
+#EXTINF: -1 tvg-name="MX |* CLARO SPORTS FHD" tvg-chno="136" tvg-logo="http://iptvglobal.site:25461/images/ea26c973e3f98b18cb6475aa1aba5fd7.png", MX |* CLARO SPORTS FHD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124470
+#EXTINF: -1 tvg-id="tcm.mx" tvg-name="MX |* TCM HD" tvg-chno="137" tvg-logo="http://iptvglobal.site:25461/images/35ea90f53b9ab170a70143cd66830ac8.png", MX |* TCM HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124471
+#EXTINF: -1 tvg-id="cnnenespanol.mx" tvg-name="MX |* CNN MEXICO FHD" tvg-chno="138" tvg-logo="http://iptvglobal.site:25461/images/7f074648c94db878c71f60fd2fb910a7.png", MX |* CNN MEXICO FHD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124473
+#EXTINF: -1 tvg-id="aymsports.mx" tvg-name="MX |* AYM DEPORTES MEXICO  FHD" tvg-chno="139", MX |* AYM DEPORTES MEXICO  FHD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124474
+#EXTINF: -1 tvg-id="antena3.mx" tvg-name="MX |* ANTENA SERIES HD" tvg-chno="140" tvg-logo="http://iptvglobal.site:25461/images/7161afb1a96e248ee7e33d143625c869.png", MX |* ANTENA SERIES HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124475
+#EXTINF: -1 tvg-id="elgourmet.mx" tvg-name="MX |* GOURMET HD" tvg-chno="141" tvg-logo="http://iptvglobal.site:25461/images/422cf866ef0481cd5523e343338d42bd.png", MX |* GOURMET HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124477
+#EXTINF: -1 tvg-name="MX |* ESPN 3 HD" tvg-chno="142" tvg-logo="http://iptvglobal.site:25461/images/6db6ffc04eb02e7cfdf49291aced4303.png", MX |* ESPN 3 HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124484
+#EXTINF: -1 tvg-name="MX |* ESPN 2  HD" tvg-chno="143" tvg-logo="http://iptvglobal.site:25461/images/a21cb6bf54b6fad9d29ee4ac6a91f508.png", MX |* ESPN 2  HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124485
+#EXTINF: -1 tvg-name="MX |* D'PELICULA HD" tvg-chno="144" tvg-logo="http://iptvglobal.site:25461/images/da70a8061beae45841b15f7ea17e3662.png", MX |* D'PELICULA HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124486
+#EXTINF: -1 tvg-name="MX |* DISCOVERY TURBO HD" tvg-chno="145" tvg-logo="http://iptvglobal.site:25461/images/9b6403d83a5ede6615d4f08bb03e3939.png", MX |* DISCOVERY TURBO HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124487
+#EXTINF: -1 tvg-name="MX |* DISCOVERY CHANNEL HD" tvg-chno="146" tvg-logo="http://iptvglobal.site:25461/images/88b5d056c428fbed31407b606695dfd4.png", MX |* DISCOVERY CHANNEL HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124488
+#EXTINF: -1 tvg-name="MX |* CINEMAX FHD" tvg-chno="147" tvg-logo="http://iptvglobal.site:25461/images/a812e3e495a235836a3c84569a6c340c.png", MX |* CINEMAX FHD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124489
+#EXTINF: -1 tvg-name="MX |* BANDAMAX FHD" tvg-chno="148" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bandamax_2015_Logo.png/640px-Bandamax_2015_Logo.png", MX |* BANDAMAX FHD
+#EXTGRP:General
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/9122
+#EXTINF: -1 tvg-name="MX |* AXN SERIES HD" tvg-chno="149" tvg-logo="http://iptvglobal.site:25461/images/24200e5458115164277932bc29676978.png", MX |* AXN SERIES HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124491
+#EXTINF: -1 tvg-name="MX |* WARNER FHD" tvg-chno="150" tvg-logo="http://iptvglobal.site:25461/images/896603e831769b26926a1fc5e8c9823b.png", MX |* WARNER FHD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124493
+#EXTINF: -1 tvg-name="MX |* TRUTV HD" tvg-chno="151" tvg-logo="http://iptvglobal.site:25461/images/580af8efe7a11b4eadef44837260a3c6.png", MX |* TRUTV HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124494
+#EXTINF: -1 tvg-name="MX |* SONY FHD" tvg-chno="152" tvg-logo="http://iptvglobal.site:25461/images/3a09d1427a58ffd09192b85a563d91c9.png", MX |* SONY FHD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124495
+#EXTINF: -1 tvg-name="MX |* HBO MUNDI HD" tvg-chno="153" tvg-logo="http://iptvglobal.site:25461/images/2a299240b93fe53b5a52ef09e3ec3314.png", MX |* HBO MUNDI HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124496
+#EXTINF: -1 tvg-name="MX |* GOLDEN EDGE FHD" tvg-chno="154" tvg-logo="http://iptvglobal.site:25461/images/0a9b25d270cabbe211b365d409ca0b22.png", MX |* GOLDEN EDGE FHD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124497
+#EXTINF: -1 tvg-name="MX |* UNIVERSAL CHANNEL HD" tvg-chno="155" tvg-logo="http://iptvglobal.site:25461/images/24d2f10239dd67666baa2992ebc431d2.png", MX |* UNIVERSAL CHANNEL HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124498
+#EXTINF: -1 tvg-name="MX |* A&E FHD" tvg-chno="156" tvg-logo="http://iptvglobal.site:25461/images/d0c418b44f402f5c32ac988aa5c1d51b.png", MX |* A&E FHD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124499
+#EXTINF: -1 tvg-name="MX |* HISTORY CHANNEL HD" tvg-chno="157" tvg-logo="http://iptvglobal.site:25461/images/487fd6056faadb1d0eb127a0ed49d482.png", MX |* HISTORY CHANNEL HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124503
+#EXTINF: -1 tvg-name="Latino  2mb - A&E" tvg-chno="158" tvg-logo="https://i.picasion.com/pic92/6d236270adafad7c4a3343819e6f279d.gif", Latino  2mb - A&E
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87429
+#EXTINF: -1 tvg-name="Latino  2mb - Antena 3" tvg-chno="159" tvg-logo="https://i.picasion.com/pic92/29fbecf9d29cf98464c4c6955dc6d979.gif", Latino  2mb - Antena 3
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87430
+#EXTINF: -1 tvg-name="Latino 2mb - AMC" tvg-chno="160" tvg-logo="https://i.picasion.com/pic92/1a9e2244d60e2df63667c62c8f33da29.gif", Latino 2mb - AMC
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87431
+#EXTINF: -1 tvg-name="Latino  2mb - Boomerang" tvg-chno="161" tvg-logo="https://i.picasion.com/pic92/62b33b6bb49428d57349ceee2bb424b5.gif", Latino  2mb - Boomerang
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87434
+#EXTINF: -1 tvg-name="Latino  2mb - Cartoon Network" tvg-chno="162" tvg-logo="https://i.picasion.com/pic92/b1f38c6755faad12fdf555290c877050.gif", Latino  2mb - Cartoon Network
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87435
+#EXTINF: -1 tvg-name="Latino  2mb - Cinecanal" tvg-chno="163" tvg-logo="https://i.picasion.com/pic92/ee6531277e68167d2660e5f870202c9f.gif", Latino  2mb - Cinecanal
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87436
+#EXTINF: -1 tvg-name="Latino  2mb - Cinemax" tvg-chno="164" tvg-logo="https://i.picasion.com/pic92/11f3ea49958c10318513030f69fa2bee.gif", Latino  2mb - Cinemax
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87437
+#EXTINF: -1 tvg-name="Latino  2mb - Comedy Central" tvg-chno="165" tvg-logo="https://i.picasion.com/pic92/30d2e21e2b372eab1b794b1f801b91be.gif", Latino  2mb - Comedy Central
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87438
+#EXTINF: -1 tvg-name="Latino 2mb - De Pelicula" tvg-chno="166" tvg-logo="https://i.picasion.com/pic92/3928a294778951e0205f6461e9b7972a.gif", Latino 2mb - De Pelicula
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87439
+#EXTINF: -1 tvg-name="Latino 2mb - DHE" tvg-chno="167" tvg-logo="https://i.picasion.com/pic92/9318c2f94f171dd1f99a9308771ebeef.gif", Latino 2mb - DHE
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87440
+#EXTINF: -1 tvg-name="Latino 2mb - Discovery Channel" tvg-chno="168" tvg-logo="https://i.picasion.com/pic92/3c7bc98108d7b928092a5f425eb60641.gif", Latino 2mb - Discovery Channel
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87441
+#EXTINF: -1 tvg-name="Latino  2mb - Discovery Home & Healt" tvg-chno="169" tvg-logo="https://i.picasion.com/pic92/faf10db51834b400896db671f832e689.gif", Latino  2mb - Discovery Home & Healt
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87442
+#EXTINF: -1 tvg-name="Latino  2mb - Discovery Turbo" tvg-chno="170" tvg-logo="http://iptvglobal.site:25461/images/306bb49a5594573218e8770f24e166c7.png", Latino  2mb - Discovery Turbo
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87443
+#EXTINF: -1 tvg-name="Latino  2mb - Disney Junior" tvg-chno="171" tvg-logo="https://i.picasion.com/pic92/df1812f643a003097a536093de37b04f.gif", Latino  2mb - Disney Junior
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87444
+#EXTINF: -1 tvg-name="Latino  2mb - Disney XD" tvg-chno="172" tvg-logo="https://i.picasion.com/pic92/7d548d0fa725645601e1396d3865bc49.gif", Latino  2mb - Disney XD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87445
+#EXTINF: -1 tvg-name="Latino  2mb - ESPN" tvg-chno="173" tvg-logo="https://i.picasion.com/pic92/a54fa2287cc6aab5fb0dc354085681f2.gif", Latino  2mb - ESPN
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87446
+#EXTINF: -1 tvg-name="Latino  2mb - ESPN 2" tvg-chno="174" tvg-logo="https://i.picasion.com/pic92/5b7d8751bfe99d859c5c315e4b813487.gif", Latino  2mb - ESPN 2
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87447
+#EXTINF: -1 tvg-name="Latino  2mb - ESPN 3" tvg-chno="175" tvg-logo="https://i.picasion.com/pic92/936f2bce8492686106780789df10f31e.gif", Latino  2mb - ESPN 3
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87448
+#EXTINF: -1 tvg-name="Latino  2mb - Fox Channel" tvg-chno="176" tvg-logo="https://i.picasion.com/pic92/dc53e6bb4b2b012abcbb2e5129b8fc51.gif", Latino  2mb - Fox Channel
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87449
+#EXTINF: -1 tvg-name="Latino  2mb - Fox Life" tvg-chno="177" tvg-logo="https://i.picasion.com/pic92/16cb4bfcdf541ef83cb9d0d224eff485.gif", Latino  2mb - Fox Life
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87453
+#EXTINF: -1 tvg-name="Latino 2mb - Fox Sports 2" tvg-chno="178" tvg-logo="https://i.picasion.com/pic92/a4002824560f0758832bf017e306de3c.gif", Latino 2mb - Fox Sports 2
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87456
+#EXTINF: -1 tvg-name="Latino 2mb - Fox Sports 3" tvg-chno="179" tvg-logo="https://i.picasion.com/pic92/750f7e24fe0d3482e6c5b32048f66d6b.gif", Latino 2mb - Fox Sports 3
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87457
+#EXTINF: -1 tvg-name="Latino  2mb - FX" tvg-chno="180" tvg-logo="https://i.picasion.com/pic92/ef55c54c735ce4a2999475b46446ddc8.gif", Latino  2mb - FX
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87458
+#EXTINF: -1 tvg-name="Latino 2mb - Golden Edge" tvg-chno="181" tvg-logo="https://i.picasion.com/pic92/5f09b99c9da386bf38734fb7b73abc6e.gif", Latino 2mb - Golden Edge
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87459
+#EXTINF: -1 tvg-name="Latino 2mb - Golden Premier" tvg-chno="182" tvg-logo="https://i.picasion.com/pic92/db3c9ce4ecae857cb6575b4db00c26fb.gif", Latino 2mb - Golden Premier
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87460
+#EXTINF: -1 tvg-name="Latino  2mb - H2" tvg-chno="183" tvg-logo="https://i.picasion.com/pic92/922153f65537df6fe62f9e56fb591f4b.gif", Latino  2mb - H2
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87461
+#EXTINF: -1 tvg-name="Latino  2mb - HBO" tvg-chno="184" tvg-logo="https://i.picasion.com/pic92/4015d23b84af662c80b672a90d7ea5cb.gif", Latino  2mb - HBO
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87462
+#EXTINF: -1 tvg-name="Latino 2mb - HBO Plus" tvg-chno="185" tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif", Latino 2mb - HBO Plus
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87463
+#EXTINF: -1 tvg-name="Latino 2mb - HBO Signature" tvg-chno="186" tvg-logo="https://i.picasion.com/pic92/6c519615d610fb60cabc7b69db5cf0ae.gif", Latino 2mb - HBO Signature
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87464
+#EXTINF: -1 tvg-name="Latino  2mb - Investigation Discovery" tvg-chno="187" tvg-logo="https://i.picasion.com/pic92/bd05a3cb969581faac6121dea1dabb95.gif", Latino  2mb - Investigation Discovery
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87465
+#EXTINF: -1 tvg-name="Latino 2mb - ISAT" tvg-chno="188" tvg-logo="https://i.picasion.com/pic92/74f80ed7a976d91513b8a09675528702.gif", Latino 2mb - ISAT
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87466
+#EXTINF: -1 tvg-name="Latino  2mb - Las Estrellas" tvg-chno="189" tvg-logo="https://i.picasion.com/pic92/d91b680174c4506fefaf31eea90df548.gif", Latino  2mb - Las Estrellas
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87467
+#EXTINF: -1 tvg-name="Latino 2mb - Nickelodeon" tvg-chno="190" tvg-logo="https://i.picasion.com/pic92/1f41d42e044c4d719980ac69a67cd6a5.gif", Latino 2mb - Nickelodeon
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87468
+#EXTINF: -1 tvg-name="Latino  2mb - Space" tvg-chno="191" tvg-logo="https://i.picasion.com/pic92/aadf9024bd5c5072014c38c6bef2ae71.gif", Latino  2mb - Space
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87469
+#EXTINF: -1 tvg-name="Latino  2mb - SyFy" tvg-chno="192" tvg-logo="https://i.picasion.com/pic92/87d87287cb8599c3f4014112af21b2d5.gif", Latino  2mb - SyFy
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87470
+#EXTINF: -1 tvg-name="Latino  2mb - TNT" tvg-chno="193" tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif", Latino  2mb - TNT
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87471
+#EXTINF: -1 tvg-name="Latino  2mb - TNT Series" tvg-chno="194" tvg-logo="https://i.picasion.com/pic92/c4b662c0b6f09e50fecd8392bd6f3721.gif", Latino  2mb - TNT Series
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87472
+#EXTINF: -1 tvg-name="Latino 2mb - Sony" tvg-chno="195" tvg-logo="http://iptvglobal.site:25461/images/9ae2767f15b15da469c307585dd350c0.png", Latino 2mb - Sony
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87473
+#EXTINF: -1 tvg-name="Latino 2mb - Universal Channel" tvg-chno="196" tvg-logo="https://i.picasion.com/pic92/f1d9c5b6d8027c635781884ee02a71bb.gif", Latino 2mb - Universal Channel
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87474
+#EXTINF: -1 tvg-name="Latino 2mb - Warner Channel" tvg-chno="197" tvg-logo="https://i.picasion.com/pic92/538eab0aa4a1fcc9978674b4c8ef6ab5.gif", Latino 2mb - Warner Channel
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87475
+#EXTINF: -1 tvg-name="Latino 2mb - Baby First" tvg-chno="198" tvg-logo="https://i.picasion.com/pic92/e34baca0a3491678de4f79772c46ab32.gif", Latino 2mb - Baby First
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87476
+#EXTINF: -1 tvg-name="Latino 2mb - Disney Channel" tvg-chno="199" tvg-logo="https://i.picasion.com/pic92/009881f71fe3a89fc0046b2cbdfaf437.gif", Latino 2mb - Disney Channel
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87477
+#EXTINF: -1 tvg-name="Latino 2mb - Food Network" tvg-chno="200" tvg-logo="http://iptvglobal.site:25461/images/f1f3d8f737ed0f285c636273d5b52f17.png", Latino 2mb - Food Network
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87478
+#EXTINF: -1 tvg-name="COL| CARACOL 1080P *" tvg-logo="http://iptvglobal.site:25461/images/9fab0c93ebb9dfed6d726cb69f3ee0e2.png", COL| CARACOL 1080P *
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86324
+#EXTINF: -1 tvg-name="COL| CARACOL INTERNACIONAL HD**" tvg-logo="http://iptvglobal.site:25461/images/b94628718c981731018331a3374aa8b6.png", COL| CARACOL INTERNACIONAL HD**
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86328
+#EXTINF: -1 tvg-name="COL| RCN FHD" tvg-logo="http://iptvglobal.site:25461/images/8abaac40562eeee5d7f9d1a9b41f0e5b.png", COL| RCN FHD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86331
+#EXTINF: -1 tvg-name="COL| NTN24 HD" tvg-logo="http://iptvglobal.site:25461/images/c1dbc4e286ffc50fe9f44d1d0b2f4a77.png", COL| NTN24 HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86337
+#EXTINF: -1 tvg-name="COL| TELEMEDELLIN" tvg-logo="http://iptvglobal.site:25461/images/b0a01c4b6f5f72ac32dd837733404756.png", COL| TELEMEDELLIN
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86358
+#EXTINF: -1 tvg-name="COL| TELECARIBE HD" tvg-logo="http://iptvglobal.site:25461/images/e5c4156e858e48d0bd50ee6d9e3ff4c6.png", COL| TELECARIBE HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86359
+#EXTINF: -1 tvg-name="COL| TELEANTIOQUIA HD**" tvg-logo="https://i.imgur.com/qCVZdar.png", COL| TELEANTIOQUIA HD**
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86360
+#EXTINF: -1 tvg-name="COL| CALI TV" tvg-logo="https://i.imgur.com/2312Luq.png", COL| CALI TV
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86363
+#EXTINF: -1 tvg-name="COL| TV AGRO HD" tvg-logo="https://i.imgur.com/9nzY7Ch.png", COL| TV AGRO HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86367
+#EXTINF: -1 tvg-name="COL| TELEPACIFICO HD" tvg-logo="http://iptvglobal.site:25461/images/dc424517e4eca332b7fc100932ac5386.png", COL| TELEPACIFICO HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86369
+#EXTINF: -1 tvg-name="COL| HOLA TV HD" tvg-logo="http://iptvglobal.site:25461/images/35fe8b9d90d9e7a5bbe1d4faf70586b3.png", COL| HOLA TV HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86375
+#EXTINF: -1 tvg-id="elgourmet.mx" tvg-name="COL| EL GOURMET HD" tvg-logo="http://iptvglobal.site:25461/images/e925d423cd19996c711520e5d47fd725.png", COL| EL GOURMET HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86377
+#EXTINF: -1 tvg-name="COL| CANAL TRECE HD" tvg-logo="http://iptvglobal.site:25461/images/a52e6144b8ab0a1891f3ad641f2a5970.png", COL| CANAL TRECE HD
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86378
+#EXTINF: -1 tvg-name="COL| CITY TV  FHD**" tvg-logo="http://miarea.vip:8080/images/6edbd94d99e17ccfb294a78dd017eea9.png", COL| CITY TV  FHD**
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/119641
+#EXTINF: -1 tvg-name="TELECARIBE (COL)" tvg-logo="http://iptvglobal.site:25461/images/e5c4156e858e48d0bd50ee6d9e3ff4c6.png", TELECARIBE (COL)
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/126596
+#EXTINF: -1 tvg-name="TELEPACIFICO (COL)" tvg-logo="https://i.imgur.com/39hy97J.png", TELEPACIFICO (COL)
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/126597
+#EXTINF: -1 tvg-id="clarcinema.co" tvg-name="Claro Cinema HD CO" tvg-logo="https://i.imgur.com/SOLGQxQ.jpg", Claro Cinema HD CO
+#EXTGRP:General
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/39127
+#EXTINF: -1 tvg-id="clarosportscolombia.co" tvg-name="Claro Sports HD CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/FOX_Sports_2022.svg/640px-FOX_Sports_2022.svg.png", fox sports HD CO
+#EXTGRP:General
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/39156
+#EXTINF: -1 tvg-id="cosmovision.co" tvg-name="Cosmovision CO", Cosmovision CO
+#EXTGRP:General
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/39144
+#EXTINF: -1 tvg-name="DIRECTV SPORTS PLUS CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/640px-DirecTV_Sports_logo.svg.png", DIRECTV SPORTS PLUS CO
+#EXTGRP:General
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/72217
+#EXTINF: -1 tvg-id="eltiempo.co" tvg-name="El Tiempo CO" tvg-logo="https://i.imgur.com/qKC1NJI.png", El Tiempo CO
+#EXTGRP:General
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/47923
+#EXTINF: -1 tvg-id="hbofamily.co" tvg-name="HBO Family HD CO", HBO Family HD CO
+#EXTGRP:General
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/45439
+#EXTINF: -1 tvg-id="hboplus.co" tvg-name="HBO Plus CO", HBO Plus CO
+#EXTGRP:General
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/45440
+#EXTINF: -1 tvg-name="La Kalle HD CO", La Kalle HD CO
+#EXTGRP:General
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/47924
+#EXTINF: -1 tvg-name="Mundo Mas HD CO", Mundo Mas HD CO
+#EXTGRP:General
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/39141
+#EXTINF: -1 tvg-id="pasiones.co" tvg-name="Pasiones FHD CO", Pasiones FHD CO
+#EXTGRP:General
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/47919
+#EXTINF: -1 tvg-id="rcnhd.co" tvg-name="RCN International HD CO", RCN International HD CO
+#EXTGRP:General
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/35730
+#EXTINF: -1 tvg-id="alientovision.co" tvg-name="Suram HD CO", Suram HD CO
+#EXTGRP:General
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/39137
+#EXTINF: -1 tvg-name="Tele Antioquia HD CO", Tele Antioquia HD CO
+#EXTGRP:General
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/39135
+#EXTINF: -1 tvg-name="Tele Islas CO", Tele Islas CO
+#EXTGRP:General
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/39131
+#EXTINF: -1 tvg-name="Teleamiga CO", Teleamiga CO
+#EXTGRP:General
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/39136
+#EXTINF: -1 tvg-id="telecafe.co" tvg-name="Telecafe HD CO", Telecafe HD CO
+#EXTGRP:General
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/39134
+#EXTINF: -1 tvg-id="telecaribe.co" tvg-name="Telecaribe Deportes HD CO", Telecaribe Deportes HD CO
+#EXTGRP:General
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/39133
+#EXTINF: -1 tvg-id="telecaribe.co" tvg-name="Telecaribe HD CO", Telecaribe HD CO
+#EXTGRP:General
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/39132
+#EXTINF: -1 tvg-id="telemedellin.co" tvg-name="Telemedellin HD CO", Telemedellin HD CO
+#EXTGRP:General
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/39142
+#EXTINF: -1 tvg-id="telepacifico.co" tvg-name="Telepacifico HD CO", Telepacifico HD CO
+#EXTGRP:General
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/39130
+#EXTINF: -1 tvg-name="TRECE CO", TRECE CO
+#EXTGRP:General
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/72214
+#EXTINF: -1 tvg-name="TV AGRO CO", TV AGRO CO
+#EXTGRP:General
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/72213
+#EXTINF: -1 tvg-id="winsports.co" tvg-name="Win Sports CO" tvg-logo="https://imgur.com/xFS8NxA.png", Win Sports CO
+#EXTGRP:General
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/52040
+#EXTINF: -1 tvg-id="winsportsplus.co" tvg-name="Win Sports Plus FHD CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/640px-Win_Sports%2B_logo.svg.png", Win Sports Plus FHD CO
+#EXTGRP:General
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/58985
+#EXTINF: -1 tvg-id="syfy.mx" tvg-name="MX | SyFy" tvg-logo="https://i.picasion.com/pic92/87d87287cb8599c3f4014112af21b2d5.gif", MX | SyFy
+#EXTGRP:General
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/90197
+#EXTINF: -1 tvg-name="MX |* BANDAMAX FHD" tvg-chno="148" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bandamax_2015_Logo.png/640px-Bandamax_2015_Logo.png", MX |* BANDAMAX FHD
+#EXTGRP:Musica
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124490
+#EXTINF: -1 tvg-id="TopLatinoTV.pe" tvg-logo="https://i.imgur.com/VRl8nPZ.png", Top Latino TV
+#EXTGRP:Musica
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
+#EXTINF: -1 tvg-id="VallenatoInternacional.us" tvg-logo="https://i.imgur.com/rVKroNW.png", Vallenato Internacional (720p) [Not 24/7]
+#EXTGRP:Musica
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF: -1 tvg-name="Canal Trece HD CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/TRECE%2B.png/150px-TRECE%2B.png", Canal Trece HD CO
+#EXTGRP:Musica
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/72222
+#EXTINF: -1 tvg-name="Telehit Musica Plus MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Telehit_logo_2020.png/640px-Telehit_logo_2020.png", Telehit Musica Plus MX
+#EXTGRP:Musica
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/249805
+#EXTINF: -1 tvg-name="RADIOLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo-claro-musica.svg/798px-Logo-claro-musica.svg.png?20220124203101", Claro Musica
+#EXTGRP:Musica
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159858
+#EXTINF: -1 tvg-id="mtvlivehd.co" tvg-name="MTV_HITS" tvg-logo="https://cdn.mitvstatic.com/channels/ar_mtv-hits_m.png", MTV_HITS
+#EXTGRP:Musica
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159910
+#EXTINF: -1 tvg-id="Caracol Television" tvg-name="Caracol Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" audio-track="ES", Caracol (HD)
+#EXTGRP:Canales HD
+http://158.69.52.98:25461/salcedohia/22yv0XS7rt/49
+#EXTINF: -1 tvg-id="Canal1.co" tvg-name="Canal 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" audio-track="ES", Canal Uno (FHD)
+#EXTGRP:Canales HD
+http://158.69.52.98:25461/salcedohia/22yv0XS7rt/1570
+#EXTINF: -1 tvg-id="ext", Fox Sports 2 HD CO
+#EXTGRP:Canales HD
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/15658
+#EXTINF: -1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/175px-Cable_Noticias_logo.svg.png", Cablenoticias HD CO
+#EXTGRP:Canales HD
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/21339
+#EXTINF: -1 tvg-id="ext", Comedy Central HD CO
+#EXTGRP:Canales HD
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/21328
+#EXTINF: -1 tvg-id="ext", RCN HD CO
+#EXTGRP:Canales HD
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/629052
+#EXTINF: -1 tvg-id="ext", Senal Colombia HD CO
+#EXTGRP:Canales HD
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/629054
+#EXTINF: -1 tvg-id="ext", TV SLO 1 HD SI
+#EXTGRP:Canales HD
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/9104
+#EXTINF: -1 tvg-id="ext", TV SLO 2 HD SI
+#EXTGRP:Canales HD
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/9103
+#EXTINF: -1 tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/ESPN_logos.png/640px-ESPN_logos.png", ESPN HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86978
+#EXTINF: -1 tvg-name="ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ESPN_2_Logo_2013.jpg", ESPN 2 HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86979
+#EXTINF: -1 tvg-name="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/ESPN_3.png", ESPN 3 HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86980
+#EXTINF: -1 tvg-name="FOX CHANNEL HD" tvg-logo="https://i.picasion.com/pic92/dc53e6bb4b2b012abcbb2e5129b8fc51.gif", FOX CHANNEL HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86982
+#EXTINF: -1 tvg-name="FOX SPORTS HD", FOX SPORTS HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86988
+#EXTINF: -1 tvg-id="foxsports2.mx" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://iptvglobal.site:25461/images/d61377c7a5bc13f8669a6346fb547eec.png", FOX SPORTS 2 HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86989
+#EXTINF: -1 tvg-id="fx.mx" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png", FX HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86990
+#EXTINF: -1 tvg-name="FXM HD" tvg-logo="https://i.picasion.com/pic92/7e11e154ea8506a703973f3189f9c4cf.gif", FXM HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86991
+#EXTINF: -1 tvg-id="golden.mx" tvg-name="GOLDEN HD" tvg-logo="http://iptvglobal.site:25461/images/4cac40f10785feb06d22b9c2ef655d23.png", GOLDEN HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86992
+#EXTINF: -1 tvg-id="goldenedge.mx" tvg-name="GOLDEN EDGE HD" tvg-logo="https://i.picasion.com/pic92/5f09b99c9da386bf38734fb7b73abc6e.gif", GOLDEN EDGE HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86993
+#EXTINF: -1 tvg-id="historyhd.mx" tvg-name="HISTORIA HD" tvg-logo="http://iptvglobal.site:25461/images/487fd6056faadb1d0eb127a0ed49d482.png", HISTORIA HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86994
+#EXTINF: -1 tvg-id="imagentv.mx" tvg-name="IMAGEN TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png", IMAGEN TV HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86995
+#EXTINF: -1 tvg-id="xhtm.es" tvg-name="CANAL DE LAS ESTRELLAS -2HRS HD" tvg-logo="http://iptvglobal.site:25461/images/0ed9404d458cfd868328bc7a08eb4e5f.png", CANAL DE LAS ESTRELLAS -2HRS HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86996
+#EXTINF: -1 tvg-id="lifetime.mx" tvg-name="LIFETIME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png", LIFETIME HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86997
+#EXTINF: -1 tvg-id="mileniotelevision.mx" tvg-name="MILENIO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/150px-Milenio_Television.png", MILENIO HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86998
+#EXTINF: -1 tvg-id="mtv.mx" tvg-name="MTV HD" tvg-logo="https://i.picasion.com/pic92/02dbe5b145e031710ef8b29f929ce895.gif", MTV HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86999
+#EXTINF: -1 tvg-name="NICK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png", NICK HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87002
+#EXTINF: -1 tvg-name="PARAMOUNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3b/Paramount_Channel_logo.svg/1200px-Paramount_Channel_logo.svg.png", PARAMOUNT HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87004
+#EXTINF: -1 tvg-name="SONY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png", SONY HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87005
+#EXTINF: -1 tvg-name="SPACE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1024px-SpaceLogo.svg.png", SPACE HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87006
+#EXTINF: -1 tvg-name="SYFY HD" tvg-logo="https://i.picasion.com/pic92/87d87287cb8599c3f4014112af21b2d5.gif", SYFY HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87007
+#EXTINF: -1 tvg-name="TBS HD", TBS HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87008
+#EXTINF: -1 tvg-name="TELEHIT HD" tvg-logo="http://iptvglobal.site:25461/images/41f742fe33ed29ce51863f236bd6c73b.png", TELEHIT HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87009
+#EXTINF: -1 tvg-id="tntseries.mx" tvg-name="TNT SERIES HD" tvg-logo="https://i.picasion.com/pic92/c4b662c0b6f09e50fecd8392bd6f3721.gif", TNT SERIES HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87010
+#EXTINF: -1 tvg-id="trutv.mx" tvg-name="TRUTV HD" tvg-logo="https://i.picasion.com/pic92/7c4e8694f6496f257495f7b195018868.gif", TRUTV HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87011
+#EXTINF: -1 tvg-id="unicable.mx" tvg-name="UNICABLE HD" tvg-logo="https://i.picasion.com/pic92/bf8c44e7f3ea273cb0dea516674d5989.gif", UNICABLE HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87012
+#EXTINF: -1 tvg-id="universalchannel.mx" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png", UNIVERSAL CHANNEL HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87013
+#EXTINF: -1 tvg-id="warnerchannel.mx" tvg-name="WARNER CHANNEL HD" tvg-logo="https://i.picasion.com/pic92/538eab0aa4a1fcc9978674b4c8ef6ab5.gif", WARNER CHANNEL HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87014
+#EXTINF: -1 tvg-name="ADN 40 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/ADN_40_logo.png", ADN 40 HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87015
+#EXTINF: -1 tvg-name="HBO POP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/130px-HBO_Pop.svg.png", HBO POP HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87016
+#EXTINF: -1 tvg-id="tnt.mx" tvg-name="TNT HD" tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif", TNT HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87017
+#EXTINF: -1 tvg-id="discoverycivilization.mx" tvg-name="DISCOVERY CIVILIZATION HD" tvg-logo="https://i.picasion.com/pic92/1613747113fa1d90554fc13786f0e8e3.gif", DISCOVERY CIVILIZATION HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87019
+#EXTINF: -1 tvg-id="foxsports3.mx" tvg-name="FOX SPORTS 3 HD" tvg-logo="https://i.picasion.com/pic92/750f7e24fe0d3482e6c5b32048f66d6b.gif", FOX SPORTS 3 HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87020
+#EXTINF: -1 tvg-id="lasestrellas.mx" tvg-name="CANAL DE LAS ESTRELLAS HD CDMX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/154px-Las_Estrellas.svg.png", CANAL DE LAS ESTRELLAS HD CDMX
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87021
+#EXTINF: -1 tvg-id="hbo.mx" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png", HBO HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87022
+#EXTINF: -1 tvg-id="hbo2.mx" tvg-name="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png", HBO 2 HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87023
+#EXTINF: -1 tvg-id="hbofamily.mx" tvg-name="HBO FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png", HBO FAMILY HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87024
+#EXTINF: -1 tvg-name="HBO MUNDI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/125px-HBO_Mundi.svg.png", HBO MUNDI HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87025
+#EXTINF: -1 tvg-id="hboplus.mx" tvg-name="HBO PLUS HD" tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif", HBO PLUS HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87026
+#EXTINF: -1 tvg-id="hbosignature.mx" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.picasion.com/pic92/6c519615d610fb60cabc7b69db5cf0ae.gif", HBO SIGNATURE HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87027
+#EXTINF: -1 tvg-name="HBO EXTREME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png", HBO EXTREME HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87028
+#EXTINF: -1 tvg-name="MX|*DISTRITO COMEDIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png", MX|*DISTRITO COMEDIA HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87029
+#EXTINF: -1 tvg-id="discoveryhomeandhealth.mx" tvg-name="MX |* DISCOVERY H&H  HD" tvg-logo="https://i.picasion.com/pic92/faf10db51834b400896db671f832e689.gif", MX |* DISCOVERY H&H  HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87030
+#EXTINF: -1 tvg-name="MX |* ADRENALINA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/AdrenalinaSportsNetwork.png/250px-AdrenalinaSportsNetwork.png", MX |* ADRENALINA FHD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87032
+#EXTINF: -1 tvg-id="tlc.mx" tvg-name="MX |* TLC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1024px-TLC_Logo.svg.png", MX |* TLC FHD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87033
+#EXTINF: -1 tvg-id="tbs.mx" tvg-name="MX |* TBS FHD" tvg-logo="http://iptvglobal.site:25461/images/b830b40478efd1395ffa550bdf276b1c.png", MX |* TBS FHD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87035
+#EXTINF: -1 tvg-id="space.mx" tvg-name="MX |* SPACE HD" tvg-logo="https://i.picasion.com/pic92/aadf9024bd5c5072014c38c6bef2ae71.gif", MX |* SPACE HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87036
+#EXTINF: -1 tvg-id="history2.mx" tvg-name="MX | * H2 MEXICO FHD" tvg-logo="https://i.picasion.com/pic92/922153f65537df6fe62f9e56fb591f4b.gif", MX | * H2 MEXICO FHD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87038
+#EXTINF: -1 tvg-name="MX |* HBO XTREME HD" tvg-logo="http://iptvglobal.site:25461/images/227c5a7767e2742104de1c193474174b.png", MX |* HBO XTREME HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87041
+#EXTINF: -1 tvg-id="hbofamily.mx" tvg-name="MX |* HBO FAMILY HD" tvg-logo="http://iptvglobal.site:25461/images/6ea796d2cc6be935f471325a6929784f.png", MX |* HBO FAMILY HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87042
+#EXTINF: -1 tvg-id="hbo2.mx" tvg-name="MX |* HBO 2 HD" tvg-logo="http://iptvglobal.site:25461/images/857cc1299f323b3da2c26cd013d0cc36.png", MX |* HBO 2 HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87045
+#EXTINF: -1 tvg-id="aymsports.mx" tvg-name="MX |* GOLDEN PREMIER HD" tvg-logo="https://i.picasion.com/pic92/db3c9ce4ecae857cb6575b4db00c26fb.gif", MX |* GOLDEN PREMIER HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87048
+#EXTINF: -1 tvg-id="foxsports3.mx" tvg-name="MX |* FOX SPORTS 3 HD" tvg-logo="https://i.picasion.com/pic92/750f7e24fe0d3482e6c5b32048f66d6b.gif", MX |* FOX SPORTS 3 HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87053
+#EXTINF: -1 tvg-id="foxsports2.mx" tvg-name="MX |* FOX SPORTS 2 HD" tvg-logo="http://iptvglobal.site:25461/images/bc3c27321719cdceecc603b08cd2f816.png", MX |* FOX SPORTS 2 HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87054
+#EXTINF: -1 tvg-id="foxsports.mx" tvg-name="MX |* FOX SPORTS  1 HD" tvg-logo="http://iptvglobal.site:25461/images/500cf40a8e8c37cbcc81a66265dc06d0.png", MX |* FOX SPORTS  1 HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87055
+#EXTINF: -1 tvg-name="MX |* FOX HD" tvg-logo="http://iptvglobal.site:25461/images/e69e82a3266d6feab8cd2d7eebc7ebfe.png", MX |* FOX HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87062
+#EXTINF: -1 tvg-name="MX |* ESPN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png", MX |* ESPN 1 HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87067
+#EXTINF: -1 tvg-name="MX |* ESPN  XTRA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ESPN_Xtra_logo.svg/1280px-ESPN_Xtra_logo.svg.png", MX |* ESPN  XTRA HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87068
+#EXTINF: -1 tvg-name="MX |* E ENTERTAIN,MENT HD" tvg-logo="http://iptvglobal.site:25461/images/1925294ef4492da4b990901ebab5396e.png", MENT HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87069
+#EXTINF: -1 tvg-name="MX |* COMEDY CENTRAL HD" tvg-logo="https://i.picasion.com/pic92/30d2e21e2b372eab1b794b1f801b91be.gif", MX |* COMEDY CENTRAL HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87071
+#EXTINF: -1 tvg-name="MX |* DISCOVERY WORLD HD" tvg-logo="http://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m790169_Discovery_World_HD.png", MX |* DISCOVERY WORLD HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87072
+#EXTINF: -1 tvg-name="MX |* DISCOVERY SCIENCE HD" tvg-logo="https://i.picasion.com/pic92/f5abb98f8a86fefdf93a33eb1324f360.gif", MX |* DISCOVERY SCIENCE HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87074
+#EXTINF: -1 tvg-name="MX |* DISCOVERY THEATHER HD" tvg-logo="https://i.picasion.com/pic92/75e37e438d6803fe9b58acec81ba18ce.gif", MX |* DISCOVERY THEATHER HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87076
+#EXTINF: -1 tvg-name="MX |* DISCOVERY ID HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/923px-Investigation_Discovery_Logo_2018.svg.png", MX |* DISCOVERY ID HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87077
+#EXTINF: -1 tvg-name="MX |* CINECANAL HD" tvg-logo="https://i.picasion.com/pic92/ee6531277e68167d2660e5f870202c9f.gif", MX |* CINECANAL HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87079
+#EXTINF: -1 tvg-name="MX |* FORO TV HD" tvg-logo="http://iptvglobal.site:25461/images/20fb8fa142e28c3f998d5fefd1fb8848.png", MX |* FORO TV HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87080
+#EXTINF: -1 tvg-name="MX |* CANAL 5 XHGC HD" tvg-logo="http://vignette1.wikia.nocookie.net/doblaje/images/b/b8/Logotipo_actual_del_canal_5_(mexico).png", MX |* CANAL 5 XHGC HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87081
+#EXTINF: -1 tvg-name="MX |* AZTECA 7 HD" tvg-logo="http://iptvglobal.site:25461/images/1951c890e5c769c28e3f240c84d8a55c.png", MX |* AZTECA 7 HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87083
+#EXTINF: -1 tvg-name="MX |* AZTECA UNO HD" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/7/78/Azteca_uno_logo_2018.png", MX |* AZTECA UNO HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87084
+#EXTINF: -1 tvg-name="MX |* AFIZZIONADOS HD" tvg-logo="http://iptvglobal.site:25461/images/397e3fbccbed46ff43e9e8053fbcb024.png", MX |* AFIZZIONADOS HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87087
+#EXTINF: -1 tvg-name="MX |* ADN 40 HD" tvg-logo="http://iptvglobal.site:25461/images/17445dd23171f1f523c94c561fd63072.png", MX |* ADN 40 HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87088
+#EXTINF: -1 tvg-name="MX |* TVC DEPORTES FHD" tvg-logo="http://iptvglobal.site:25461/images/cf90e92b3b7ca14b0440c5385eeba682.png", MX |* TVC DEPORTES FHD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87090
+#EXTINF: -1 tvg-name="MX |* TELEHIT FHD" tvg-logo="http://iptvglobal.site:25461/images/41f742fe33ed29ce51863f236bd6c73b.png", MX |* TELEHIT FHD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87092
+#EXTINF: -1 tvg-name="MX |* MTV FHD" tvg-logo="http://iptvglobal.site:25461/images/44d0daf63320eba61e84bb8fd78ab3c1.png", MX |* MTV FHD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87094
+#EXTINF: -1 tvg-name="MX |* MAS CHIC FHD" tvg-logo="http://iptvglobal.site:25461/images/ca800876e017cfb4a37803ba535dba2c.png", MX |* MAS CHIC FHD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87095
+#EXTINF: -1 tvg-name="MX |* FXM FHD" tvg-logo="https://i.picasion.com/pic92/7e11e154ea8506a703973f3189f9c4cf.gif", MX |* FXM FHD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87098
+#EXTINF: -1 tvg-name="MX |* DISCOVERY KIDS FHD" tvg-logo="https://i.picasion.com/pic92/a4b9d73aa8e92a6026851181611fbe31.gif", MX |* DISCOVERY KIDS FHD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87101
+#EXTINF: -1 tvg-name="MX |* BITME FHD" tvg-logo="http://iptvglobal.site:25461/images/8fdcaf15d7cb14bd280e8614a61395de.png", MX |* BITME FHD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87102
+#EXTINF: -1 tvg-name="MX |* UNICABLE FHD" tvg-logo="https://i.picasion.com/pic92/bf8c44e7f3ea273cb0dea516674d5989.gif", MX |* UNICABLE FHD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87104
+#EXTINF: -1 tvg-name="MX |* TOONCAST HD" tvg-logo="https://i.picasion.com/pic92/982aa390a86f8be23076729b7ee71ab8.gif", MX |* TOONCAST HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87106
+#EXTINF: -1 tvg-name="MX |* TNT SERIES HD" tvg-logo="https://i.picasion.com/pic92/c4b662c0b6f09e50fecd8392bd6f3721.gif", MX |* TNT SERIES HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87107
+#EXTINF: -1 tvg-name="MX |* TNT HD" tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif", MX |* TNT HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87108
+#EXTINF: -1 tvg-name="MX |* AMC FHD" tvg-logo="https://i.picasion.com/pic92/1a9e2244d60e2df63667c62c8f33da29.gif", MX |* AMC FHD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87109
+#EXTINF: -1 tvg-name="MX |* DISCOVERY TLC FHD" tvg-logo="http://iptvglobal.site:25461/images/7d951053ef3ae3ccb9a8efd2f12e1394.png", MX |* DISCOVERY TLC FHD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87110
+#EXTINF: -1 tvg-name="MX |* TUDN HD" tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png", MX |* TUDN HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87111
+#EXTINF: -1 tvg-name="MX |* OUTDOOR HD" tvg-logo="http://iptvglobal.site:25461/images/ab5def8d800a923e9816f2c4386b09a3.png", MX |* OUTDOOR HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87113
+#EXTINF: -1 tvg-name="MX |* NICKTOONS HD" tvg-logo="https://i.picasion.com/pic92/e97183af8daaa012b02156e14d1ddecf.gif", MX |* NICKTOONS HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87114
+#EXTINF: -1 tvg-name="MX |* iSAT HD" tvg-logo="https://i.picasion.com/pic92/74f80ed7a976d91513b8a09675528702.gif", MX |* iSAT HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87117
+#EXTINF: -1 tvg-name="MX |* HBO SIGNATURE HD" tvg-logo="https://i.picasion.com/pic92/6c519615d610fb60cabc7b69db5cf0ae.gif", MX |* HBO SIGNATURE HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87119
+#EXTINF: -1 tvg-name="MX |* HBO POP HD" tvg-logo="http://iptvglobal.site:25461/images/97e21068a9bab4e4cce283960b479925.png", MX |* HBO POP HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87120
+#EXTINF: -1 tvg-name="MX |* HBO PLUS HD" tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif", MX |* HBO PLUS HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87121
+#EXTINF: -1 tvg-id="aymsports.mx" tvg-name="MX |* COMEDY CENTRAL HD" tvg-logo="https://i.picasion.com/pic92/30d2e21e2b372eab1b794b1f801b91be.gif", MX |* COMEDY CENTRAL HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87122
+#EXTINF: -1 tvg-id="studiouniversal.mx" tvg-name="MX |* ESTUDIO UNIVERSAL HD" tvg-logo="https://i.picasion.com/pic92/c95b572dc3ef1b0e464273ec25bd7523.gif", MX |* ESTUDIO UNIVERSAL HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87123
+#EXTINF: -1 tvg-name="MX |* CARTOON NETWORK HD" tvg-logo="https://i.picasion.com/pic92/b1f38c6755faad12fdf555290c877050.gif", MX |* CARTOON NETWORK HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87124
+#EXTINF: -1 tvg-name="MX |* SYFY FHD" tvg-logo="https://i.picasion.com/pic92/87d87287cb8599c3f4014112af21b2d5.gif", MX |* SYFY FHD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87126
+#EXTINF: -1 tvg-name="CANAL NU9VE HD", CANAL NU9VE HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124469
+#EXTINF: -1 tvg-name="MX |* CLARO SPORTS FHD" tvg-logo="http://iptvglobal.site:25461/images/ea26c973e3f98b18cb6475aa1aba5fd7.png", MX |* CLARO SPORTS FHD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124470
+#EXTINF: -1 tvg-id="tcm.mx" tvg-name="MX |* TCM HD" tvg-logo="http://iptvglobal.site:25461/images/35ea90f53b9ab170a70143cd66830ac8.png", MX |* TCM HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124471
+#EXTINF: -1 tvg-id="cnnenespanol.mx" tvg-name="MX |* CNN MEXICO FHD" tvg-logo="http://iptvglobal.site:25461/images/7f074648c94db878c71f60fd2fb910a7.png", MX |* CNN MEXICO FHD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124473
+#EXTINF: -1 tvg-id="aymsports.mx" tvg-name="MX |* AYM DEPORTES MEXICO  FHD", MX |* AYM DEPORTES MEXICO  FHD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124474
+#EXTINF: -1 tvg-id="antena3.mx" tvg-name="MX |* ANTENA SERIES HD" tvg-logo="http://iptvglobal.site:25461/images/7161afb1a96e248ee7e33d143625c869.png", MX |* ANTENA SERIES HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124475
+#EXTINF: -1 tvg-id="elgourmet.mx" tvg-name="MX |* GOURMET HD" tvg-logo="http://iptvglobal.site:25461/images/422cf866ef0481cd5523e343338d42bd.png", MX |* GOURMET HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124477
+#EXTINF: -1 tvg-name="MX |* ESPN 3 HD" tvg-logo="http://iptvglobal.site:25461/images/6db6ffc04eb02e7cfdf49291aced4303.png", MX |* ESPN 3 HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124484
+#EXTINF: -1 tvg-name="MX |* ESPN 2  HD" tvg-logo="http://iptvglobal.site:25461/images/a21cb6bf54b6fad9d29ee4ac6a91f508.png", MX |* ESPN 2  HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124485
+#EXTINF: -1 tvg-name="MX |* D'PELICULA HD" tvg-logo="http://iptvglobal.site:25461/images/da70a8061beae45841b15f7ea17e3662.png", MX |* D'PELICULA HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124486
+#EXTINF: -1 tvg-name="MX |* DISCOVERY TURBO HD" tvg-logo="http://iptvglobal.site:25461/images/9b6403d83a5ede6615d4f08bb03e3939.png", MX |* DISCOVERY TURBO HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124487
+#EXTINF: -1 tvg-name="MX |* DISCOVERY CHANNEL HD" tvg-logo="http://iptvglobal.site:25461/images/88b5d056c428fbed31407b606695dfd4.png", MX |* DISCOVERY CHANNEL HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124488
+#EXTINF: -1 tvg-name="MX |* CINEMAX FHD" tvg-logo="http://iptvglobal.site:25461/images/a812e3e495a235836a3c84569a6c340c.png", MX |* CINEMAX FHD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124489
+#EXTINF: -1 tvg-name="MX |* BANDAMAX FHD" tvg-logo="http://iptvglobal.site:25461/images/a2d4b314096c4986c95cab9bafbcafc6.png", MX |* BANDAMAX FHD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124490
+#EXTINF: -1 tvg-name="MX |* AXN SERIES HD" tvg-logo="http://iptvglobal.site:25461/images/24200e5458115164277932bc29676978.png", MX |* AXN SERIES HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124491
+#EXTINF: -1 tvg-name="MX |* WARNER FHD" tvg-logo="http://iptvglobal.site:25461/images/896603e831769b26926a1fc5e8c9823b.png", MX |* WARNER FHD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124493
+#EXTINF: -1 tvg-name="MX |* TRUTV HD" tvg-logo="http://iptvglobal.site:25461/images/580af8efe7a11b4eadef44837260a3c6.png", MX |* TRUTV HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124494
+#EXTINF: -1 tvg-name="MX |* SONY FHD" tvg-logo="http://iptvglobal.site:25461/images/3a09d1427a58ffd09192b85a563d91c9.png", MX |* SONY FHD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124495
+#EXTINF: -1 tvg-name="MX |* HBO MUNDI HD" tvg-logo="http://iptvglobal.site:25461/images/2a299240b93fe53b5a52ef09e3ec3314.png", MX |* HBO MUNDI HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124496
+#EXTINF: -1 tvg-name="MX |* GOLDEN EDGE FHD" tvg-logo="http://iptvglobal.site:25461/images/0a9b25d270cabbe211b365d409ca0b22.png", MX |* GOLDEN EDGE FHD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124497
+#EXTINF: -1 tvg-name="MX |* UNIVERSAL CHANNEL HD" tvg-logo="http://iptvglobal.site:25461/images/24d2f10239dd67666baa2992ebc431d2.png", MX |* UNIVERSAL CHANNEL HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124498
+#EXTINF: -1 tvg-name="MX |* A&E FHD" tvg-logo="http://iptvglobal.site:25461/images/d0c418b44f402f5c32ac988aa5c1d51b.png", MX |* A&E FHD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124499
+#EXTINF: -1 tvg-name="MX |* HISTORY CHANNEL HD" tvg-logo="http://iptvglobal.site:25461/images/487fd6056faadb1d0eb127a0ed49d482.png", MX |* HISTORY CHANNEL HD
+#EXTGRP:Canales HD
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124503
+#EXTINF: -1 tvg-id="Canal2Alpavision.co" tvg-logo="https://i.imgur.com/Yv8XIGW.png", Canal 2 Alpavisión (Neiva | Huila) (720p) [Not 24/7]
+#EXTGRP:TV-Peliculas
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
+#EXTINF: -1 tvg-id="MovieFe.co" tvg-logo="https://i.imgur.com/FqHLJmN.png", MovieFe (360p) [Not 24/7]
+#EXTGRP:TV-Peliculas
+https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8
+#EXTINF: -1 tvg-id="TDIColombia.co" tvg-name="TDIColombia" tvg-logo="https://i.imgur.com/svNeBNv.png" audio-track="ES", TDI Colombia (720p) [Not 24/7]
+#EXTGRP:TV-Peliculas
+https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
+#EXTINF: -1 tvg-name="CINE| A ESTRENAR FHD **" tvg-logo="http://iptvglobal.site:25461/images/0cd119831354bed3dfa0c1be6e4d188e.png", CINE| A ESTRENAR FHD **
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87515
+#EXTINF: -1 tvg-name="CINE| ACTION MAX FHD" tvg-logo="https://i.picasion.com/pic92/0b9d9077c1a3b6d82312a7fa6903fbae.gif", CINE| ACTION MAX FHD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87516
+#EXTINF: -1 tvg-name="CINE| AMC HD" tvg-logo="https://i.picasion.com/pic92/1a9e2244d60e2df63667c62c8f33da29.gif", CINE| AMC HD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87518
+#EXTINF: -1 tvg-name="CINE| LIFETIME FHD" tvg-logo="https://i.picasion.com/pic92/4d3e9f2a4a2ac3cc8d818028f5240406.gif", CINE| LIFETIME FHD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87524
+#EXTINF: -1 tvg-name="CINE| CINE MEXICANO HD" tvg-logo="https://i.picasion.com/pic92/9055cd1f7224fb85a4dd9d6ec901acca.gif", CINE| CINE MEXICANO HD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87526
+#EXTINF: -1 tvg-name="CINE| CINECANAL HD" tvg-logo="https://i.picasion.com/pic92/ee6531277e68167d2660e5f870202c9f.gif", CINE| CINECANAL HD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87527
+#EXTINF: -1 tvg-name="CINE| CINEMA DINAMITA HD" tvg-logo="https://i.picasion.com/pic92/df55ccdc1319681f5c7e25e7e47814d3.gif", CINE| CINEMA DINAMITA HD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87530
+#EXTINF: -1 tvg-name="CINE| CINEMAX EAST FHD" tvg-logo="https://i.picasion.com/pic92/11f3ea49958c10318513030f69fa2bee.gif", CINE| CINEMAX EAST FHD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87533
+#EXTINF: -1 tvg-name="CINE| CINEMAX FHD" tvg-logo="https://i.picasion.com/pic92/11f3ea49958c10318513030f69fa2bee.gif", CINE| CINEMAX FHD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87534
+#EXTINF: -1 tvg-name="CINE| DHE FHD" tvg-logo="https://i.picasion.com/pic92/ceccd6074cd1bb3c8c1478d556ebf5b0.gif", CINE| DHE FHD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87538
+#EXTINF: -1 tvg-name="CINE| ESTUDIO UNIVERSAL FHD" tvg-logo="https://i.picasion.com/pic92/c95b572dc3ef1b0e464273ec25bd7523.gif", CINE| ESTUDIO UNIVERSAL FHD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87540
+#EXTINF: -1 tvg-name="CINE| FILM & ARTS HD" tvg-logo="https://i.picasion.com/pic92/bf8bd99b86aa25586bb178b3f8b17dee.gif", CINE| FILM & ARTS HD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87542
+#EXTINF: -1 tvg-name="CINE| FILM ZONE HD" tvg-logo="https://i.picasion.com/pic92/93176d987c95ac311ec24e2e0b8a471a.gif", CINE| FILM ZONE HD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87543
+#EXTINF: -1 tvg-name="CINE| FOX  FAMILY PREMIUN HD" tvg-logo="https://i.picasion.com/pic92/63be4c5351df87536d093c58ba07c0f7.gif", CINE| FOX  FAMILY PREMIUN HD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87544
+#EXTINF: -1 tvg-name="CINE| FOX CHANNEL FHD" tvg-logo="https://i.picasion.com/pic92/82b116f195510063f709ad2bc4b8898d.gif", CINE| FOX CHANNEL FHD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87547
+#EXTINF: -1 tvg-name="CINE| FOX LIFE FHD" tvg-logo="https://i.picasion.com/pic92/68cc08582de9d2b35891104c6e9fa00c.gif", CINE| FOX LIFE FHD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87554
+#EXTINF: -1 tvg-name="CINE| FOX SERIES PREMIUN FHD MEXICO" tvg-logo="https://i.picasion.com/pic92/87c838e045028d2a3a0ceb8cf47fa709.gif", CINE| FOX SERIES PREMIUN FHD MEXICO
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87562
+#EXTINF: -1 tvg-name="CINE| FX HD" tvg-logo="https://i.picasion.com/pic92/de3e71cad2c796c62b5456f5fce7432f.gif", CINE| FX HD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87565
+#EXTINF: -1 tvg-name="CINE| GOLDEN EDGE HD" tvg-logo="https://i.picasion.com/pic92/5f09b99c9da386bf38734fb7b73abc6e.gif", CINE| GOLDEN EDGE HD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87568
+#EXTINF: -1 tvg-name="CINE| GOLDEN HD" tvg-logo="https://i.picasion.com/pic92/09ca3f25c64819f5c8517d2b495e9585.gif", CINE| GOLDEN HD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87569
+#EXTINF: -1 tvg-name="CINE| GOLDEN PLUS FHD" tvg-logo="https://i.picasion.com/pic92/273c8e4ba33a1f6fe1596e9d90bd9815.gif", CINE| GOLDEN PLUS FHD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87570
+#EXTINF: -1 tvg-name="CINE| GOLDEN PREMIER FHD" tvg-logo="https://i.picasion.com/pic92/db3c9ce4ecae857cb6575b4db00c26fb.gif", CINE| GOLDEN PREMIER FHD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87572
+#EXTINF: -1 tvg-name="CINE| MAX PRIME FHD" tvg-logo="https://i.picasion.com/pic92/640740c48939f2a31562e1ac8df21e5f.gif", CINE| MAX PRIME FHD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87595
+#EXTINF: -1 tvg-name="CINE| MAX UP HD" tvg-logo="https://i.picasion.com/pic92/c79edec245382c08a15a91e7c45da7e5.gif", CINE| MAX UP HD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87596
+#EXTINF: -1 tvg-name="CINE| MOREMAX FHD" tvg-logo="https://i.picasion.com/pic92/eba534f21c1c1dbf748f8fcc70b73fff.gif", CINE| MOREMAX FHD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87598
+#EXTINF: -1 tvg-name="CINE| MOVIEMAX FHD" tvg-logo="https://i.picasion.com/pic92/2eab6161122d4d9b86ca2a8fe1623a28.gif", CINE| MOVIEMAX FHD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87599
+#EXTINF: -1 tvg-name="CINE| OUTERMAX FHD" tvg-logo="https://i.picasion.com/pic92/275e93079f6d00b048a635a876e083a3.gif", CINE| OUTERMAX FHD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87603
+#EXTINF: -1 tvg-name="CINE| SHOWTIME BEYOND FHD" tvg-logo="https://i.picasion.com/pic92/ec8275aff4ab2dbb94decaa7444b606b.gif", CINE| SHOWTIME BEYOND FHD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87607
+#EXTINF: -1 tvg-name="CINE| SHOWTIME EAST FHD" tvg-logo="https://i.picasion.com/pic92/4d5a76ac8874e24d71e24ec09d6cb03e.gif", CINE| SHOWTIME EAST FHD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87608
+#EXTINF: -1 tvg-name="CINE| SHOWTIME EXTREME LATINO HD" tvg-logo="https://i.picasion.com/pic92/05e7442376fdb005894600274d863e0f.gif", CINE| SHOWTIME EXTREME LATINO HD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87609
+#EXTINF: -1 tvg-name="CINE| SHOWTIME HD" tvg-logo="https://i.picasion.com/pic92/8e6fc4a9d6d9ef9ea06154a382cca03e.gif", CINE| SHOWTIME HD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87610
+#EXTINF: -1 tvg-name="CINE| SHOWTIME LATINO HD" tvg-logo="https://i.picasion.com/pic92/8e6fc4a9d6d9ef9ea06154a382cca03e.gif", CINE| SHOWTIME LATINO HD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87611
+#EXTINF: -1 tvg-name="CINE| SONY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Canal_Sony_logo_monochrome.svg/640px-Canal_Sony_logo_monochrome.svg.png", CINE| SONY HD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87614
+#EXTINF: -1 tvg-name="CINE| STARZ EAST FHD" tvg-logo="https://i.picasion.com/pic92/22b8038bab5b7d4d3349029271c37adf.gif", CINE| STARZ EAST FHD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87621
+#EXTINF: -1 tvg-name="CINE| STARZ EDGE LATINO HD" tvg-logo="https://i.picasion.com/pic92/690a5a52dec350cc72069e56d843e5c8.gif", CINE| STARZ EDGE LATINO HD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87623
+#EXTINF: -1 tvg-name="CINE| STARZ ENCORE  ACTION HD" tvg-logo="https://i.picasion.com/pic92/a8f01bb1058365e9cfcdf92f5dddfb96.gif", CINE| STARZ ENCORE  ACTION HD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87624
+#EXTINF: -1 tvg-name="CINE| STARZ ENCORE FAMILY HD" tvg-logo="https://i.picasion.com/pic92/b9448deea9f9ffa3ae82b0b5beacf3fd.gif", CINE| STARZ ENCORE FAMILY HD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87626
+#EXTINF: -1 tvg-name="CINE| STARZ ENCORE HD" tvg-logo="https://i.picasion.com/pic92/fc75fb6628f5cc4ebcad0fce151dd0b6.gif", CINE| STARZ ENCORE HD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87627
+#EXTINF: -1 tvg-name="CINE| STARZ ENCORE WESTERNS HD" tvg-logo="https://i.picasion.com/pic92/d9e44966e779fc3912367b2b5a5e188e.gif", CINE| STARZ ENCORE WESTERNS HD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87628
+#EXTINF: -1 tvg-name="CINE| STARZ FAMLY HD" tvg-logo="https://i.picasion.com/pic92/38048b8dc7dac625a6ea04d94231e3ba.gif", CINE| STARZ FAMLY HD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87629
+#EXTINF: -1 tvg-name="CINE| STARZ KIDS  FAMILY HD" tvg-logo="https://i.picasion.com/pic92/86f64b475ab164846823f53e94c22980.gif", CINE| STARZ KIDS  FAMILY HD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87630
+#EXTINF: -1 tvg-name="CINE| STARZ LATINO HD" tvg-logo="https://i.picasion.com/pic92/22b8038bab5b7d4d3349029271c37adf.gif", CINE| STARZ LATINO HD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87631
+#EXTINF: -1 tvg-name="CINE| STARZ ENCORE EN ESPANOL  HD" tvg-logo="https://i.picasion.com/pic92/6f3c3d0cd5858d86eddb0fc95d85639d.gif", CINE| STARZ ENCORE EN ESPANOL  HD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87632
+#EXTINF: -1 tvg-name="CINE| TNT  FHD" tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif", CINE| TNT  FHD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87639
+#EXTINF: -1 tvg-name="CINE| TNT SERIES FHD" tvg-logo="https://i.picasion.com/pic92/c4b662c0b6f09e50fecd8392bd6f3721.gif", CINE| TNT SERIES FHD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87641
+#EXTINF: -1 tvg-name="CINE| UNIVERSAL CHANNEL FHD" tvg-logo="https://i.picasion.com/pic92/ba7d6233f2ad692eaa350936a48e3f61.gif", CINE| UNIVERSAL CHANNEL FHD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87643
+#EXTINF: -1 tvg-name="CINE| WARNER FHD MEXICO" tvg-logo="https://i.picasion.com/pic92/538eab0aa4a1fcc9978674b4c8ef6ab5.gif", CINE| WARNER FHD MEXICO
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87645
+#EXTINF: -1 tvg-name="CINE| CINEBOX 1 4K" tvg-logo="https://i.picasion.com/pic92/2dd023937de9e64f26231f2c0cebef71.gif", CINE| CINEBOX 1 4K
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87665
+#EXTINF: -1 tvg-name="HDMX | DE PELICULA" tvg-logo="https://i.picasion.com/pic92/3928a294778951e0205f6461e9b7972a.gif", HDMX | DE PELICULA
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/90166
+#EXTINF: -1 tvg-name="HDMX | GOLDEN EDGE" tvg-logo="https://i.picasion.com/pic92/5f09b99c9da386bf38734fb7b73abc6e.gif", HDMX | GOLDEN EDGE
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/90167
+#EXTINF: -1 tvg-id="depeliculaclasico.mx" tvg-name="MX | De Pelicula Clasico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/De_Pel%C3%ADcula_Cl%C3%A1sico.png/200px-De_Pel%C3%ADcula_Cl%C3%A1sico.png", MX | De Pelicula Clasico
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/90168
+#EXTINF: -1 tvg-id="golden.mx" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/320px-Canal_Golden_logo.svg.png", MX | Golden
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/90169
+#EXTINF: -1 tvg-id="amchd.mx" tvg-name="MX | AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png", MX | AMC
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/90170
+#EXTINF: -1 tvg-id="depeliculahd.mx" tvg-name="MX | De Pelicula" tvg-logo="https://i.picasion.com/pic92/3928a294778951e0205f6461e9b7972a.gif", MX | De Pelicula
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/90171
+#EXTINF: -1 tvg-id="cinelatino.us" tvg-name="Cinelatino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/150px-Cine_Latino_logo.svg.png", Cinelatino
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/90172
+#EXTINF: -1 tvg-id="cinemax.mx" tvg-name="MX | Cinemax" tvg-logo="https://i.picasion.com/pic92/11f3ea49958c10318513030f69fa2bee.gif", MX | Cinemax
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/90175
+#EXTINF: -1 tvg-name="MX | D Pelicula Plus" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/imgpsh_fullsize_anim.jpg", MX | D Pelicula Plus
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/90176
+#EXTINF: -1 tvg-id="hbo2.mx" tvg-name="MX | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/640px-HBO_2_%282014%29.svg.png", MX | HBO 2
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/90189
+#EXTINF: -1 tvg-id="maxprime.mx" tvg-name="MX | HBO Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/640px-HBO_Xtreme.svg.png", MX | HBO Extreme
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/90190
+#EXTINF: -1 tvg-id="hbofamily.mx" tvg-name="MX | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png", MX | HBO Family
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/90191
+#EXTINF: -1 tvg-id="max.mx" tvg-name="MX | HBO Mundi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/640px-HBO_Mundi.svg.png", MX | HBO Mundi
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/90192
+#EXTINF: -1 tvg-id="hboplus.mx" tvg-name="MX | HBO Plus" tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif", MX | HBO Plus
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/90193
+#EXTINF: -1 tvg-id="hbopo.mx" tvg-name="MX | HBO Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/640px-HBO_Pop.svg.png", MX | HBO Pop
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/90194
+#EXTINF: -1 tvg-id="hbosignature.mx" tvg-name="MX | HBO Signature" tvg-logo="https://i.picasion.com/pic92/6c519615d610fb60cabc7b69db5cf0ae.gif", MX | HBO Signature
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/90195
+#EXTINF: -1 tvg-id="syfy.mx" tvg-name="MX | SyFy" tvg-logo="https://i.picasion.com/pic92/87d87287cb8599c3f4014112af21b2d5.gif", MX | SyFy
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/90197
+#EXTINF: -1 tvg-id="hbo.mx" tvg-name="HDMX | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/640px-HBO_logo.svg.png", HDMX | HBO
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/90199
+#EXTINF: -1 tvg-id="hbo2.mx" tvg-name="HDMX | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/640px-HBO_2_%282014%29.svg.png", HDMX | HBO 2
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/90200
+#EXTINF: -1 tvg-id="cinecanal.mx" tvg-name="HDMX | Cinecanal" tvg-logo="https://i.picasion.com/pic92/ee6531277e68167d2660e5f870202c9f.gif", HDMX | Cinecanal
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/90203
+#EXTINF: -1 tvg-id="cinemax.mx" tvg-name="HD | Cinemax" tvg-logo="https://i.picasion.com/pic92/11f3ea49958c10318513030f69fa2bee.gif", HD | Cinemax
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/90204
+#EXTINF: -1 tvg-id="azcinema.mx" tvg-name="MX | AZ Cinema" tvg-logo="https://i.picasion.com/pic92/2e6a716c360e4313b24200ed336c9049.gif", MX | AZ Cinema
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/90211
+#EXTINF: -1 tvg-name="CINE| VIP  HBO MAX HD" tvg-logo="https://i.picasion.com/pic92/174513280b7d634977f582fddc2523e4.gif", CINE| VIP  HBO MAX HD
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/109240
+#EXTINF: -1 tvg-name="IZMX | Universal Premiere" tvg-logo="https://i.picasion.com/pic92/4036a3d4386b61a5ef856cb691415e2a.gif", IZMX | Universal Premiere
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/118258
+#EXTINF: -1 tvg-name="IZMX | Universal Reality" tvg-logo="https://i.picasion.com/pic92/ce43b68a833147a08f51d3d6ec59cc8c.gif", IZMX | Universal Reality
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/118259
+#EXTINF: -1 tvg-name="IZMMX | Universal Cinema" tvg-logo="https://i.picasion.com/pic92/5bf2870126b6b8b50b709199fe1cf7a4.gif", IZMMX | Universal Cinema
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/118261
+#EXTINF: -1 tvg-name="IZMX | Universal Comedy" tvg-logo="https://i.picasion.com/pic92/733abd1e9808b989ea05e3fd345cc314.gif", IZMX | Universal Comedy
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/118262
+#EXTINF: -1 tvg-name="ULTRA FAMILIA" tvg-logo="https://i.picasion.com/pic92/2838559fee77a96f5686e418bfe2b972.gif", ULTRA FAMILIA
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/120166
+#EXTINF: -1 tvg-name="ULTRA KIDZ" tvg-logo="https://i.picasion.com/pic92/2c47495d2125dfd6f2f42e820919943c.gif", ULTRA KIDZ
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/120167
+#EXTINF: -1 tvg-name="CINE| TAQUILLA 4" tvg-logo="http://iptvglobal.site:25461/images/d9a1c9659be744ce5cbf39c1afc9f9bf.png", CINE| TAQUILLA 4
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/121843
+#EXTINF: -1 tvg-name="Ultra Cine" tvg-logo="https://i.picasion.com/pic92/81024999ccb8e3275846c0ce3ce1add9.gif", Ultra Cine
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/128003
+#EXTINF: -1 tvg-name="Ultra Clásico" tvg-logo="https://i.picasion.com/pic92/2c5f5cfa959fceb5089d0c45d042eeac.gif", Ultra Clásico
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/128004
+#EXTINF: -1 tvg-name="Ultra Familia" tvg-logo="https://i.picasion.com/pic92/4b731299b5d182be0a9d5107eed4ef2d.gif", Ultra Familia
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/128005
+#EXTINF: -1 tvg-name="Ultra Kidz" tvg-logo="https://i.picasion.com/pic92/ff1f45b4de1b6e70cf13f4deb4f5cf00.gif", Ultra Kidz
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/128006
+#EXTINF: -1 tvg-name="Ultra Macho" tvg-logo="https://i.picasion.com/pic92/a2689f07dbdad1d96732d60fabe8aa00.gif", Ultra Macho
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/128007
+#EXTINF: -1 tvg-name="Ultra Misterio" tvg-logo="https://i.picasion.com/pic92/af7a2cbbfa5478c040c0ab01f68d89ac.gif", Ultra Misterio
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/128008
+#EXTINF: -1 tvg-name="Universal Comedy" tvg-logo="https://i.picasion.com/pic92/025f8df4319fbc62ceb088918df8fd65.gif", Universal Comedy
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/128011
+#EXTINF: -1 tvg-name="Universal Premiere" tvg-logo="https://i.picasion.com/pic92/8dd9e71b8bb70d196a1e43b1d86b4231.gif", Universal Premiere
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/128013
+#EXTINF: -1 tvg-name="Universal Reality" tvg-logo="https://i.picasion.com/pic92/27cc030bc39646da490505d235cb7cd9.gif", Universal Reality
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/128014
+#EXTINF: -1 tvg-name="Universal Cinema" tvg-logo="https://i.picasion.com/pic92/d34a8c1212e31357ec7064d3aee92eb7.gif", Universal Cinema
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/128015
+#EXTINF: -1 tvg-name="CINE| HBO LATINO DIRECTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/HBO_Latino_%282014%29.svg/2560px-HBO_Latino_%282014%29.svg.png", CINE| HBO LATINO DIRECTV
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/140934
+#EXTINF: -1 tvg-name="Ultra Film" tvg-logo="http://www.skytvpluzz.online:8000/images/3e6478eeaf6193e1f07d621d745a505d.png", Ultra Film
+#EXTGRP:TV-Peliculas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/129914
+#EXTINF: -1 tvg-id="LatinoKids.uy" tvg-logo="https://i.imgur.com/CBUf3K1.png", LatinoKids (360p) [Not 24/7]
+#EXTGRP:Entretenimiento
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+#EXTINF: -1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png", RCN Más (1080p)
+#EXTGRP:Entretenimiento
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF: -1 tvg-id="history2.mx" tvg-name="MX | * H2 MEXICO FHD" tvg-logo="https://i.picasion.com/pic92/922153f65537df6fe62f9e56fb591f4b.gif", MX | * H2 MEXICO FHD
+#EXTGRP:Latinas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87038
+#EXTINF: -1 tvg-name="CNN MEXICO" tvg-logo="http://iptvglobal.site:25461/images/7f074648c94db878c71f60fd2fb910a7.png", CNN MEXICO
+#EXTGRP:Latinas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124467
+#EXTINF: -1 tvg-id="cnnenespanol.mx" tvg-name="MX |* CNN MEXICO FHD" tvg-logo="http://iptvglobal.site:25461/images/7f074648c94db878c71f60fd2fb910a7.png", MX |* CNN MEXICO FHD
+#EXTGRP:Latinas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124473
+#EXTINF: -1 tvg-id="aymsports.mx" tvg-name="MX |* AYM DEPORTES MEXICO  FHD", MX |* AYM DEPORTES MEXICO  FHD
+#EXTGRP:Latinas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124474
+#EXTINF: -1 tvg-id="FamiliChannel.co" tvg-logo="https://i.imgur.com/fPuWct8.png", Famili Channel (720p)
+#EXTGRP:Family
+https://cp.panelchs.com:1936/8012/8012/playlist.m3u8
+#EXTINF: -1 tvg-id="Caracol Television" tvg-name="Caracol Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" audio-track="ES", Caracol (HD)
+#EXTGRP:Family
+http://158.69.52.98:25461/salcedohia/22yv0XS7rt/49
+#EXTINF: -1 tvg-id="Canal1.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png", Canal 1 (1080p) [Geo-blocked]
+#EXTGRP:Family
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+#EXTINF: -1 tvg-id="CitytvBogotá.co" tvg-name="Citytv Bogotá" tvg-logo="https://i.imgur.com/ybSn8tp.png", Citytv
+#EXTGRP:Family
+http://158.69.52.98:25461/salcedohia/22yv0XS7rt/2675
+#EXTINF: -1 tvg-id="RCN.co" tvg-name="RCN oficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/512px-Canal_RCN_logo_%282%29.svg.png" audio-track="ES", RCN Nuestra Tele
+#EXTGRP:Family
+http://158.69.52.98:25461/salcedohia/22yv0XS7rt/52
+#EXTINF: -1 tvg-id="Canal1.co" tvg-name="Canal 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" audio-track="ES", Canal Uno (FHD)
+#EXTGRP:Family
+http://158.69.52.98:25461/salcedohia/22yv0XS7rt/1570
+#EXTINF: -1 tvg-id="Cablenoticias.co" tvg-logo="https://i.imgur.com/FfhOGR9.png", Cablenoticias (Bogotà | Cundinamarca) (1080p)
+#EXTGRP:Noticias
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+#EXTINF: -1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png", CNA International (1080p)
+#EXTGRP:Noticias
+https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/playlist.m3u8
+#EXTINF: -1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png", CNN en Español
+#EXTGRP:Noticias
+http://209.91.213.10:8088/play/a014
+#EXTINF: -1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png", DW Español (1080p)
+#EXTGRP:Noticias
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF: -1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png", Euronews Spanish
+#EXTGRP:Noticias
+https://euronews.alteox.app/hls/es_stream.m3u8
+#EXTINF: -1 tvg-id="Noticiero90Minutos.co" tvg-logo="https://i.imgur.com/ThaRRCN.png", Noticiero 90 Minutos (Santiago de Cali | Valle del Cauca) (720p) [Not 24/7]
+#EXTGRP:Noticias
+https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+#EXTINF: -1 tvg-id="NoticiasCaracol (co)" tvg-name="NoticiasCaracol" tvg-logo="https://i.imgur.com/FLt0fwa.png" audio-track="español", Noticias Caracol
+#EXTGRP:Noticias
+http://iptvmedia.live:8080/86488e81/a54aaf7b73/286308
+#EXTINF: -1 tvg-name="CNN MEXICO" tvg-logo="http://iptvglobal.site:25461/images/7f074648c94db878c71f60fd2fb910a7.png", CNN MEXICO
+#EXTGRP:Noticias
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124467
+#EXTINF: -1 tvg-id="cnnenespanol.mx" tvg-name="MX |* CNN MEXICO FHD" tvg-logo="http://iptvglobal.site:25461/images/7f074648c94db878c71f60fd2fb910a7.png", MX |* CNN MEXICO FHD
+#EXTGRP:Noticias
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124473
+#EXTINF: -1 tvg-id="SEOTVNovelas.bo" tvg-logo="https://i.imgur.com/5IPjtJk.png", SEO TV Novelas (1080p)
+#EXTGRP:TV-Novelas
+https://live.seo.tv.bo/live/3SEO.m3u8
+#EXTINF: -1 tvg-id="Novelisima" tvg-logo="https://i.imgur.com/vEzeqHP.png", Novelisima (1080p)
+#EXTGRP:TV-Novelas
+https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+#EXTINF: -1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/512px-RCN_Novelas_logo_2019.png" audio-track="ES", RCN Novelas (sd)
+#EXTGRP:TV-Novelas
+http://158.69.52.98:25461/salcedohia/22yv0XS7rt/2579
+#EXTINF: -1 tvg-id="rcnnovelas.co" tvg-name="TLNOVELAS" tvg-logo="https://cdn.mitvstatic.com/channels/6b9cacbc-43d6-4117-8f85-2f39cf26eaf1_m.jpg", TLNOVELAS
+#EXTGRP:TV-Novelas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159856
+#EXTINF: -1 tvg-id="pasiones.co" tvg-name="PASIONES_HD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png", PASIONES_HD
+#EXTGRP:TV-Novelas
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159872
+#EXTINF: -1 tvg-id="AvivamientoTV.co" tvg-logo="https://i.imgur.com/7YB94Hf.png", Avivamiento TV (1080p) [Not 24/7]
+#EXTGRP:Religion
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
+#EXTINF: -1 tvg-id="EJTV.cr" tvg-logo="https://i.imgur.com/UpvMgJq.png", Enlace Juvenil (EJTV) (288p) [Not 24/7]
+#EXTGRP:Religion
+https://api.new.livestream.com/accounts/ejtvla/events/2294538/live.m3u8
+#EXTINF: -1 tvg-id="EWTNEspanaLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png", EWTN el Canal Católico (720p) [Not 24/7]
+#EXTGRP:Religion
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF: -1 tvg-id="NuevoTiempo.br" tvg-logo="https://i.imgur.com/exdDHml.png", Nuevo Tiempo (720p) [Not 24/7]
+#EXTGRP:Religion
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="TVGracia.co" tvg-logo="https://i.imgur.com/tMl4ISO.png", TVGracia (720p)
+#EXTGRP:Religion
+https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
+#EXTINF: -1 tvg-id="ext" tvg-chno="14", Fox Sports 2 HD CO
+#EXTGRP:Deportes
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/15658
+#EXTINF: -1 tvg-id="ext" tvg-chno="25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/WinSports2022.png/150px-WinSports2022.png", Win Sports CO
+#EXTGRP:Deportes
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/629053
+#EXTINF: -1 tvg-name="FOX SPORTS HD" tvg-chno="42", FOX SPORTS HD
+#EXTGRP:Deportes
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86988
+#EXTINF: -1 tvg-id="foxsports3.mx" tvg-name="FOX SPORTS 3 HD" tvg-chno="71" tvg-logo="https://i.picasion.com/pic92/750f7e24fe0d3482e6c5b32048f66d6b.gif", FOX SPORTS 3 HD
+#EXTGRP:Deportes
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87020
+#EXTINF: -1 tvg-id="foxsports3.mx" tvg-name="MX |* FOX SPORTS 3 HD" tvg-chno="91" tvg-logo="https://i.picasion.com/pic92/750f7e24fe0d3482e6c5b32048f66d6b.gif", MX |* FOX SPORTS 3 HD
+#EXTGRP:Deportes
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87053
+#EXTINF: -1 tvg-id="foxsports2.mx" tvg-name="MX |* FOX SPORTS 2 HD" tvg-chno="92" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/640px-2015_Fox_sports_logo.svg.png", MX |* FOX SPORTS 2 HD
+#EXTGRP:Deportes
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87054
+#EXTINF: -1 tvg-id="foxsports.mx" tvg-name="MX |* FOX SPORTS  1 HD" tvg-chno="93" tvg-logo="http://iptvglobal.site:25461/images/500cf40a8e8c37cbcc81a66265dc06d0.png", MX |* FOX SPORTS  1 HD
+#EXTGRP:Deportes
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87055
+#EXTINF: -1 tvg-name="MX |* CLARO SPORTS FHD" tvg-chno="136" tvg-logo="http://iptvglobal.site:25461/images/ea26c973e3f98b18cb6475aa1aba5fd7.png", MX |* CLARO SPORTS FHD
+#EXTGRP:Deportes
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124470
+#EXTINF: -1 tvg-name="Latino 2mb - Fox Sports 2" tvg-chno="178" tvg-logo="https://i.picasion.com/pic92/a4002824560f0758832bf017e306de3c.gif", Latino 2mb - Fox Sports 2
+#EXTGRP:Deportes
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87456
+#EXTINF: -1 tvg-name="Latino 2mb - Fox Sports 3" tvg-chno="179" tvg-logo="https://i.picasion.com/pic92/750f7e24fe0d3482e6c5b32048f66d6b.gif", Latino 2mb - Fox Sports 3
+#EXTGRP:Deportes
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87457
+#EXTINF: -1 tvg-id="DirecTVSportsColombia.co" tvg-name="DirecTV Sports Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" audio-track="ES", Directv
+#EXTGRP:Deportes
+http://158.69.52.98:25461/salcedohia/22yv0XS7rt/842
+#EXTINF: -1 tvg-id="clarosportscolombia.co" tvg-name="Claro Sports HD CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/FOX_Sports_2022.svg/640px-FOX_Sports_2022.svg.png", fox sports HD CO
+#EXTGRP:Deportes
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/39156
+#EXTINF: -1 tvg-name="DIRECTV SPORTS PLUS CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/640px-DirecTV_Sports_logo.svg.png", DIRECTV SPORTS PLUS CO
+#EXTGRP:Deportes
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/72217
+#EXTINF: -1 tvg-id="winsports.co" tvg-name="Win Sports CO" tvg-logo="https://imgur.com/xFS8NxA.png", Win Sports CO
+#EXTGRP:Deportes
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/52040
+#EXTINF: -1 tvg-id="winsportsplus.co" tvg-name="Win Sports Plus FHD CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/640px-Win_Sports%2B_logo.svg.png", Win Sports Plus FHD CO
+#EXTGRP:Deportes
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/58985
+#EXTINF: -1 tvg-name="ESPN HD", ESPN HD
+#EXTGRP:Deportes
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86978
+#EXTINF: -1 tvg-name="ESPN 2 HD", ESPN 2 HD
+#EXTGRP:Deportes
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86979
+#EXTINF: -1 tvg-name="ESPN 3 HD", ESPN 3 HD
+#EXTGRP:Deportes
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86980
+#EXTINF: -1 tvg-name="MX |* ESPN 1 HD" tvg-logo="http://iptvglobal.site:25461/images/7e9f2faec802eb9cace2303034565400.png", MX |* ESPN 1 HD
+#EXTGRP:Deportes
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87067
+#EXTINF: -1 tvg-name="MX |* ESPN  XTRA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ESPN_Xtra_logo.svg/1280px-ESPN_Xtra_logo.svg.png", MX |* ESPN  XTRA HD
+#EXTGRP:Deportes
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87068
+#EXTINF: -1 tvg-name="MX |* ESPN 3 HD" tvg-logo="http://iptvglobal.site:25461/images/6db6ffc04eb02e7cfdf49291aced4303.png", MX |* ESPN 3 HD
+#EXTGRP:Deportes
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124484
+#EXTINF: -1 tvg-name="MX |* ESPN 2  HD" tvg-logo="http://iptvglobal.site:25461/images/a21cb6bf54b6fad9d29ee4ac6a91f508.png", MX |* ESPN 2  HD
+#EXTGRP:Deportes
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/124485
+#EXTINF: -1 tvg-name="CINE| STARZ KIDS  FAMILY HD" tvg-logo="https://i.picasion.com/pic92/86f64b475ab164846823f53e94c22980.gif", CINE| STARZ KIDS  FAMILY HD
+#EXTGRP:Infantil
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/87630
+#EXTINF: -1 tvg-name="KIDS| PANDA HD" tvg-logo="https://i.picasion.com/pic92/3f89bd55a4782e095e6d3f255ea7f13b.gif", KIDS| PANDA HD
+#EXTGRP:Infantil
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86389
+#EXTINF: -1 tvg-name="KIDS| NICKELODEON FHD" tvg-logo="https://i.picasion.com/pic92/1f41d42e044c4d719980ac69a67cd6a5.gif", KIDS| NICKELODEON FHD
+#EXTGRP:Infantil
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86390
+#EXTINF: -1 tvg-name="KIDS| NICK HD" tvg-logo="https://i.picasion.com/pic92/0080bdd4d74f6b0347af71d6e887b73b.gif", KIDS| NICK HD
+#EXTGRP:Infantil
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86392
+#EXTINF: -1 tvg-name="KIDS| NICK 2 HD" tvg-logo="https://i.picasion.com/pic92/6aad2f3cb290aceee26a7e0cfedc87ce.gif", KIDS| NICK 2 HD
+#EXTGRP:Infantil
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86393
+#EXTINF: -1 tvg-name="KIDS| NICK JR" tvg-logo="https://i.picasion.com/pic92/e9849a5c986060e9bbb5feebc4c84c7c.gif", KIDS| NICK JR
+#EXTGRP:Infantil
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86394
+#EXTINF: -1 tvg-name="KIDS| NICKTOON HD" tvg-logo="https://i.picasion.com/pic92/e97183af8daaa012b02156e14d1ddecf.gif", KIDS| NICKTOON HD
+#EXTGRP:Infantil
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86395
+#EXTINF: -1 tvg-name="KIDS| DISNEY CHANNEL FHD" tvg-logo="https://i.picasion.com/pic92/009881f71fe3a89fc0046b2cbdfaf437.gif", KIDS| DISNEY CHANNEL FHD
+#EXTGRP:Infantil
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86396
+#EXTINF: -1 tvg-name="KIDS| DISNEY JR HD" tvg-logo="https://i.picasion.com/pic92/df1812f643a003097a536093de37b04f.gif", KIDS| DISNEY JR HD
+#EXTGRP:Infantil
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86397
+#EXTINF: -1 tvg-name="KIDS| DISNEY XD FHD" tvg-logo="https://i.picasion.com/pic92/7d548d0fa725645601e1396d3865bc49.gif", KIDS| DISNEY XD FHD
+#EXTGRP:Infantil
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86398
+#EXTINF: -1 tvg-name="KIDS| DISCOVERY KIDS FHD" tvg-logo="https://i.picasion.com/pic92/a4b9d73aa8e92a6026851181611fbe31.gif", KIDS| DISCOVERY KIDS FHD
+#EXTGRP:Infantil
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86399
+#EXTINF: -1 tvg-name="KIDS| BOOMERAN FHD" tvg-logo="http://iptvglobal.site:25461/images/bf146b1d1d7281749d2715c20bbb9c46.png", KIDS| BOOMERAN FHD
+#EXTGRP:Infantil
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86400
+#EXTINF: -1 tvg-name="KIDS| BOIN KIDS HD" tvg-logo="http://iptvglobal.site:25461/images/c36d748b11694d23ae7ccce14f4286dc.png", KIDS| BOIN KIDS HD
+#EXTGRP:Infantil
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86401
+#EXTINF: -1 tvg-name="KIDS| BABY TV FHD" tvg-logo="https://i.picasion.com/pic92/285258ac0eafdfb930dfef47cbcd8860.gif", KIDS| BABY TV FHD
+#EXTGRP:Infantil
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86402
+#EXTINF: -1 tvg-name="KIDS| CARTOON NETWORKS FHD" tvg-logo="https://i.picasion.com/pic92/b1f38c6755faad12fdf555290c877050.gif", KIDS| CARTOON NETWORKS FHD
+#EXTGRP:Infantil
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86404
+#EXTINF: -1 tvg-name="KIDS| NICK MUSIC HD" tvg-logo="https://i.picasion.com/pic92/f02c97a34e5d17e42ad6091390609163.gif", KIDS| NICK MUSIC HD
+#EXTGRP:Infantil
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86405
+#EXTINF: -1 tvg-name="CULT| LOVE NATURE HD" tvg-logo="https://i.picasion.com/pic92/7d4facb4e9ea6a991982b273b21951e6.gif", CULT| LOVE NATURE HD
+#EXTGRP:Educacion
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86183
+#EXTINF: -1 tvg-name="CULT| A&E LATINO HD" tvg-logo="https://i.picasion.com/pic92/a4356a432147e1266c902cb626321f7b.gif", CULT| A&E LATINO HD
+#EXTGRP:Educacion
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86185
+#EXTINF: -1 tvg-name="CULT| A&E MEXICO FHD" tvg-logo="https://i.picasion.com/pic92/a4356a432147e1266c902cb626321f7b.gif", CULT| A&E MEXICO FHD
+#EXTGRP:Educacion
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86186
+#EXTINF: -1 tvg-name="CULT| ANIMAL PLANET FHD" tvg-logo="https://i.picasion.com/pic92/cee2d5ac650bae609247cf1204c7687d.gif", CULT| ANIMAL PLANET FHD
+#EXTGRP:Educacion
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86187
+#EXTINF: -1 tvg-name="CULT| DISCOVERY CHANNEL HD*+*" tvg-logo="https://i.picasion.com/pic92/03f22ce43d3821993007ab7656e6ee9e.gif", CULT| DISCOVERY CHANNEL HD*+*
+#EXTGRP:Educacion
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86189
+#EXTINF: -1 tvg-name="CULT| DISCOVERY CHANNEL EN ESPANOL HD" tvg-logo="https://i.picasion.com/pic92/03f22ce43d3821993007ab7656e6ee9e.gif", CULT| DISCOVERY CHANNEL EN ESPANOL HD
+#EXTGRP:Educacion
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86192
+#EXTINF: -1 tvg-name="CULT| DISCOVERY CIVILIZACION FHD" tvg-logo="https://i.picasion.com/pic92/64b9aee575afef0b63aaf4c5e7910d74.gif", CULT| DISCOVERY CIVILIZACION FHD
+#EXTGRP:Educacion
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86193
+#EXTINF: -1 tvg-name="CULT| DISCOVERY CIVILIZACION HD" tvg-logo="https://i.picasion.com/pic92/64b9aee575afef0b63aaf4c5e7910d74.gif", CULT| DISCOVERY CIVILIZACION HD
+#EXTGRP:Educacion
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86194
+#EXTINF: -1 tvg-name="CULT| DISCOVERY FAMILIA FHD" tvg-logo="https://i.picasion.com/pic92/350cb6b51a670c2bc09c2c5b40cd8a27.gif", CULT| DISCOVERY FAMILIA FHD
+#EXTGRP:Educacion
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86195
+#EXTINF: -1 tvg-name="CULT| DISCOVERY HOME & HEALTH" tvg-logo="https://i.picasion.com/pic92/faf10db51834b400896db671f832e689.gif", CULT| DISCOVERY HOME & HEALTH
+#EXTGRP:Educacion
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86197
+#EXTINF: -1 tvg-name="CULT| HGTV HD***" tvg-logo="https://i.picasion.com/pic92/ffa76cd45b32ca3d85572f5d2e0763ac.gif", CULT| HGTV HD***
+#EXTGRP:Educacion
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86199
+#EXTINF: -1 tvg-name="CULT| DISCOVERY ID FHD" tvg-logo="http://iptvglobal.site:25461/images/b8d9e00a51086e4e15dc3e0ef71efb30.png", CULT| DISCOVERY ID FHD
+#EXTGRP:Educacion
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86200
+#EXTINF: -1 tvg-name="CULT| INVESTIGATION DISCOVERY HD*+*" tvg-logo="https://i.picasion.com/pic92/faf10db51834b400896db671f832e689.gif", CULT| INVESTIGATION DISCOVERY HD*+*
+#EXTGRP:Educacion
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86202
+#EXTINF: -1 tvg-name="CULT| DISCOVERY INVESTIGATION HD" tvg-logo="https://i.picasion.com/pic92/bd05a3cb969581faac6121dea1dabb95.gif", CULT| DISCOVERY INVESTIGATION HD
+#EXTGRP:Educacion
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86203
+#EXTINF: -1 tvg-name="CULT| DISCOVERY SCIENCIE FHD" tvg-logo="https://i.picasion.com/pic92/f5abb98f8a86fefdf93a33eb1324f360.gif", CULT| DISCOVERY SCIENCIE FHD
+#EXTGRP:Educacion
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86204
+#EXTINF: -1 tvg-name="CULT| DISCOVERY THEATHER FHD" tvg-logo="https://i.picasion.com/pic92/75e37e438d6803fe9b58acec81ba18ce.gif", CULT| DISCOVERY THEATHER FHD
+#EXTGRP:Educacion
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86206
+#EXTINF: -1 tvg-name="CULT DISCOVERY TURBO FHD" tvg-logo="https://i.picasion.com/pic92/aeae0c5f96755c6110479c6adec0f981.gif", CULT DISCOVERY TURBO FHD
+#EXTGRP:Educacion
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86209
+#EXTINF: -1 tvg-name="CULT| DISCOVERY TURBO HD" tvg-logo="https://i.picasion.com/pic92/aeae0c5f96755c6110479c6adec0f981.gif", CULT| DISCOVERY TURBO HD
+#EXTGRP:Educacion
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86210
+#EXTINF: -1 tvg-name="CULT| DISCOVERY WORLD FHD" tvg-logo="https://i.picasion.com/pic92/1b9e5b855df699765edb4807ac16cad2.gif", CULT| DISCOVERY WORLD FHD
+#EXTGRP:Educacion
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86211
+#EXTINF: -1 tvg-name="CULT| H2 FHD" tvg-logo="https://i.picasion.com/pic92/922153f65537df6fe62f9e56fb591f4b.gif", CULT| H2 FHD
+#EXTGRP:Educacion
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86213
+#EXTINF: -1 tvg-name="CULT| HISTORY CHANNEL FHD" tvg-logo="https://i.picasion.com/pic92/f80d806e267aa4d6986021e45379aea8.gif", CULT| HISTORY CHANNEL FHD
+#EXTGRP:Educacion
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86216
+#EXTINF: -1 tvg-name="CULT| HISTORY HD" tvg-logo="https://i.picasion.com/pic92/f80d806e267aa4d6986021e45379aea8.gif", CULT| HISTORY HD
+#EXTGRP:Educacion
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86217
+#EXTINF: -1 tvg-name="CULT| INVESTIGATION DISCOVERY FHD" tvg-logo="https://i.picasion.com/pic92/bd05a3cb969581faac6121dea1dabb95.gif", CULT| INVESTIGATION DISCOVERY FHD
+#EXTGRP:Educacion
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86218
+#EXTINF: -1 tvg-name="CULT| NAT GEO WILD FHD" tvg-logo="https://i.picasion.com/pic92/c8342962cfe8939e200e0f356d3a2b3f.gif", CULT| NAT GEO WILD FHD
+#EXTGRP:Educacion
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86219
+#EXTINF: -1 tvg-name="CULT| NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.picasion.com/pic92/2b31295eac5d436044165e844f6f4d57.gif", CULT| NATIONAL GEOGRAPHIC HD
+#EXTGRP:Educacion
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86221
+#EXTINF: -1 tvg-name="CULT| TLC FHD" tvg-logo="https://i.picasion.com/pic92/6403624308dc3fe67279349d295c2f6f.gif", CULT| TLC FHD
+#EXTGRP:Educacion
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86223
+#EXTINF: -1 tvg-name="CULT| TRUTV HD" tvg-logo="https://i.picasion.com/pic92/30179d683077a217f550e144c8124a52.gif", CULT| TRUTV HD
+#EXTGRP:Educacion
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86226
+#EXTINF: -1 tvg-id="SenalColombia.co" tvg-chno="4" tvg-logo="https://i.imgur.com/Y9x16vl.png", Señal Colombia (1080p)
+#EXTGRP:Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="Caracol Television" tvg-name="Caracol Television" tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" audio-track="ES", Caracol (HD)
+#EXTGRP:Colombia
+http://158.69.52.98:25461/salcedohia/22yv0XS7rt/49
+#EXTINF: -1 tvg-id="TDIColombia.co" tvg-name="TDIColombia" tvg-chno="7" tvg-logo="https://i.imgur.com/svNeBNv.png" audio-track="ES", TDI Colombia (720p) [Not 24/7]
+#EXTGRP:Colombia
+https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
+#EXTINF: -1 tvg-id="ext" tvg-chno="24", Senal Colombia HD CO
+#EXTGRP:Colombia
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/629054
+#EXTINF: -1 tvg-name="COL| CARACOL 1080P *" tvg-logo="http://iptvglobal.site:25461/images/9fab0c93ebb9dfed6d726cb69f3ee0e2.png", COL| CARACOL 1080P *
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86324
+#EXTINF: -1 tvg-name="COL| CARACOL INTERNACIONAL HD**" tvg-logo="http://iptvglobal.site:25461/images/b94628718c981731018331a3374aa8b6.png", COL| CARACOL INTERNACIONAL HD**
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86328
+#EXTINF: -1 tvg-name="COL| RCN FHD" tvg-logo="http://iptvglobal.site:25461/images/8abaac40562eeee5d7f9d1a9b41f0e5b.png", COL| RCN FHD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86331
+#EXTINF: -1 tvg-name="COL| NTN24 HD" tvg-logo="http://iptvglobal.site:25461/images/c1dbc4e286ffc50fe9f44d1d0b2f4a77.png", COL| NTN24 HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86337
+#EXTINF: -1 tvg-name="COL| TELEMEDELLIN" tvg-logo="http://iptvglobal.site:25461/images/b0a01c4b6f5f72ac32dd837733404756.png", COL| TELEMEDELLIN
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86358
+#EXTINF: -1 tvg-name="COL| TELECARIBE HD" tvg-logo="http://iptvglobal.site:25461/images/e5c4156e858e48d0bd50ee6d9e3ff4c6.png", COL| TELECARIBE HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86359
+#EXTINF: -1 tvg-name="COL| TELEANTIOQUIA HD**" tvg-logo="http://iptvglobal.site:25461/images/689cb60887f9e7348c1fc93d834ad7c0.png", COL| TELEANTIOQUIA HD**
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86360
+#EXTINF: -1 tvg-name="COL| CALI TV" tvg-logo="http://iptvglobal.site:25461/images/8c057b53bd4b551881ce798aa350609b.png", COL| CALI TV
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86363
+#EXTINF: -1 tvg-name="COL| TV AGRO HD" tvg-logo="http://iptvglobal.site:25461/images/c836985e570602cfd04f3318351a9372.png", COL| TV AGRO HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86367
+#EXTINF: -1 tvg-name="COL| TELEPACIFICO HD" tvg-logo="http://iptvglobal.site:25461/images/dc424517e4eca332b7fc100932ac5386.png", COL| TELEPACIFICO HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86369
+#EXTINF: -1 tvg-name="COL| HOLA TV HD" tvg-logo="http://iptvglobal.site:25461/images/35fe8b9d90d9e7a5bbe1d4faf70586b3.png", COL| HOLA TV HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86375
+#EXTINF: -1 tvg-id="elgourmet.mx" tvg-name="COL| EL GOURMET HD" tvg-logo="http://iptvglobal.site:25461/images/e925d423cd19996c711520e5d47fd725.png", COL| EL GOURMET HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86377
+#EXTINF: -1 tvg-name="COL| CANAL TRECE HD" tvg-logo="http://iptvglobal.site:25461/images/a52e6144b8ab0a1891f3ad641f2a5970.png", COL| CANAL TRECE HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/86378
+#EXTINF: -1 tvg-name="COL| CITY TV  FHD**" tvg-logo="http://miarea.vip:8080/images/6edbd94d99e17ccfb294a78dd017eea9.png", COL| CITY TV  FHD**
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/119641
+#EXTINF: -1 tvg-name="TELECARIBE (COL)" tvg-logo="http://iptvglobal.site:25461/images/e5c4156e858e48d0bd50ee6d9e3ff4c6.png", TELECARIBE (COL)
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/126596
+#EXTINF: -1 tvg-name="TELEPACIFICO (COL)" tvg-logo="http://iptvglobal.site:25461/images/a46041c80eb36fde5d48c1f04f210714.png", TELEPACIFICO (COL)
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/126597
+#EXTINF: -1 tvg-id="clarosportscolombia.co" tvg-name="CLARO_SPORTS_COL_HD" tvg-logo="https://www.seekpng.com/png/small/286-2863259_claro-sports-claro-sports.png", CLARO_SPORTS_COL_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159796
+#EXTINF: -1 tvg-id="alientovision.co" tvg-name="DIA_TV_HD" tvg-logo="https://cdn.mitvstatic.com/channels/f14f3c9d-5d6b-4c4a-b684-38e4701119a2_m.jpg", DIA_TV_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159797
+#EXTINF: -1 tvg-id="canalcapital.co" tvg-name="CANALCAPITAL_HD" tvg-logo="https://conexioncapital.co/wp-content/uploads/2020/05/pre-capital.jpg", CANALCAPITAL_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159798
+#EXTINF: -1 tvg-id="cinecanal.co" tvg-name="CINECANAL_HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_cinecanal-sd-hd-1_m.png", CINECANAL_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159799
+#EXTINF: -1 tvg-id="canal1.co" tvg-name="CANAL_UNO_HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_cinecanal-sd-hd-1_m.png", CANAL_UNO_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159800
+#EXTINF: -1 tvg-id="discoverychannel.co" tvg-name="DISCOVERY_CHANNEL_HD" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png", DISCOVERY_CHANNEL_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159801
+#EXTINF: -1 tvg-id="discoveryhomeandhealth.co" tvg-name="DISCOVERY_HOME_HEALTH_HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTEdM1bq9sNAvhDaausDeM1dqa8SkwekdL_loPNHgxEYVM6XTQg7nj50JzsvNHzGQuudD3DmDaF8hSVqw1EPlligMBL87r7j_I1n18i8qksVw3NS9bWCd5AkoaaQ6rnHFlvjRiOXWbywE-tpV9-w3mGUpcmCfdS9OgvYoQ9XQ8aTcDqlxOZCZBKpqNHQ/s1920/Captura%20de%20Tela%20(1167).png", DISCOVERY_HOME_HEALTH_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159802
+#EXTINF: -1 tvg-id="aande.mx" tvg-name="AE_MUNDO_HD" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2020/12/maquetaci%EF%BD%BDn_web-160.png", AE_MUNDO_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159804
+#EXTINF: -1 tvg-id="aztecamundo.mx" tvg-name="AZMUNDO_HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png", AZMUNDO_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159805
+#EXTINF: -1 tvg-id="discoveryhomeandhealth.co" tvg-name="DISCOVERY_THEATER_HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-hd-theater_m.png", DISCOVERY_THEATER_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159806
+#EXTINF: -1 tvg-id="cartoonnetwork.co" tvg-name="CARTOON_NETWORK_HD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/cartoon-network-1-logo-png-transparent.png", CARTOON_NETWORK_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159807
+#EXTINF: -1 tvg-id="winsportsplus.co" tvg-name="WINPREMIUM" tvg-logo="https://i.ytimg.com/vi/UPHlOHPztpk/maxresdefault.jpg", WINPREMIUM
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159808
+#EXTINF: -1 tvg-id="azcorazon.mx" tvg-name="AZCORAZON_HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png", AZCORAZON_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159809
+#EXTINF: -1 tvg-id="winsports.co" tvg-name="WINSPORTS_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/WinSports2022.png/640px-WinSports2022.png", WINSPORTS_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159810
+#EXTINF: -1 tvg-id="animalplanet.co" tvg-name="ANIMAL_PLANET_HD" tvg-logo="https://www.kindpng.com/picc/m/107-1076403_animal-planet-png-animal-planet-logo-2019-transparent.png", ANIMAL_PLANET_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159811
+#EXTINF: -1 tvg-id="axn.co" tvg-name="AXN_HD" tvg-logo="https://w1.pngwing.com/pngs/586/145/png-transparent-tv-axn-television-show-amazing-race-asia-5-television-channel-entertainment-logo-sony-s-thumbnail.png", AXN_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159812
+#EXTINF: -1 tvg-id="discoveryscience.co" tvg-name="DISCOVERY_WORLD_HD" tvg-logo="https://www.nicepng.com/png/detail/134-1342363_discovery-channel-logo-discovery-world.png", DISCOVERY_WORLD_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159813
+#EXTINF: -1 tvg-id="hbofamily.co" tvg-name="BLOOMBERG_HD" tvg-logo="https://thumbs.dreamstime.com/b/bloomberg-logo-icon-printed-paper-placed-white-backgro-kiev-ukraine-october-background-reflection-79842594.jpg", BLOOMBERG_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159814
+#EXTINF: -1 tvg-id="amc.co" tvg-name="AMC_HD" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/amc-logo.png", AMC_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159815
+#EXTINF: -1 tvg-id="clarotv.co" tvg-name="CANAL_CLARO_HD" tvg-logo="https://cdn.mitvstatic.com/channels/sv_canal-claro_m.png", CANAL_CLARO_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159817
+#EXTINF: -1 tvg-id="clarosportscolombia.co" tvg-name="CLARO_SPORTS_LATAM_HD" tvg-logo="https://www.seekpng.com/png/small/286-2863259_claro-sports-claro-sports.png", CLARO_SPORTS_LATAM_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159818
+#EXTINF: -1 tvg-id="espn3.co" tvg-name="ESPN_3_HD" tvg-logo="https://cdn.mitvstatic.com/channels/5c990929-9b1a-4690-9292-f6378cade546_m.jpg", ESPN_3_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159819
+#EXTINF: -1 tvg-id="foxsports3conosur.co" tvg-name="FOXSP3MXHD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-sports-3_m.png", FOXSP3MXHD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159820
+#EXTINF: -1 tvg-id="hboplus.co" tvg-name="HBO_PLUS_HD_MX" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-plus-pan-regional-hd_m.png", HBO_PLUS_HD_MX
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159821
+#EXTINF: -1 tvg-id="espnplus.co" tvg-name="ESPN_PLUS_HD" tvg-logo="https://barrettsportsmedia.com/wp-content/uploads/2021/07/ESPN_PLUS_FC_POS-copy.jpg", ESPN_PLUS_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159822
+#EXTINF: -1 tvg-id="foxsports2conosur.co" tvg-name="FOXSP2MXHD" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2021/03/394-3949767_fox-sports-fox-sport-2-logo-png-transparent.png", FOXSP2MXHD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159823
+#EXTINF: -1 tvg-id="universalchannel.co" tvg-name="UNIVERSAL_CHANNEL_HD" tvg-logo="https://www.totalmedios.com/img/noticias/2010/08/Noticia9287__838x390.jpg", UNIVERSAL_CHANNEL_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159824
+#EXTINF: -1 tvg-id="hbosignaturehd.co" tvg-name="HBO_SIGNATURE_HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.1813311820_HBOSignature.png.b249d53ce9aea7ba6e6918e62263084f.png", HBO_SIGNATURE_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159825
+#EXTINF: -1 tvg-id="fox.co" tvg-name="FOX_HD" tvg-logo="https://www.freepnglogos.com/uploads/fox-hd-logo-png-1.png", FOX_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159826
+#EXTINF: -1 tvg-id="goldenpremier.co" tvg-name="GOLDEN_PREMIER_HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png", GOLDEN_PREMIER_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159827
+#EXTINF: -1 tvg-id="espn2.co" tvg-name="ESPN_2_HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png", ESPN_2_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159829
+#EXTINF: -1 tvg-id="aande.co" tvg-name="E_HD" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg", E_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159830
+#EXTINF: -1 tvg-id="hboxtreme.co" tvg-name="HBO_XTREME_HD_MX" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png", HBO_XTREME_HD_MX
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159831
+#EXTINF: -1 tvg-id="tnt.co" tvg-name="TNT_HD" tvg-logo="https://www.seekpng.com/png/detail/205-2055551_tnt-hd-europe-logo-tnt-hd-logo-png.png", TNT_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159832
+#EXTINF: -1 tvg-id="foxsportsconosur.co" tvg-name="FOXSPORTS_PREMIUM_HD" tvg-logo="https://www.elfinanciero.com.mx/resizer/t4vHRoheiNbROq-ojIXjdXjLZIg=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PZ4AX3STGVCLLJ6NQ4BVVKJHRM.jpg", FOXSPORTS_PREMIUM_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159833
+#EXTINF: -1 tvg-id="trutv.co" tvg-name="TRU_TV_HD" tvg-logo="https://cdn6.aptoide.com/imgs/e/8/7/e87ded4659a59808d596016a323f40cf_icon.jpg", TRU_TV_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159834
+#EXTINF: -1 tvg-id="history.co" tvg-name="HISTORY_CHANNEL_HD" tvg-logo="https://www.seekpng.com/png/detail/291-2917130_biblia-png-sin-fondo-history-tv-logo.png", HISTORY_CHANNEL_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159835
+#EXTINF: -1 tvg-id="hbopop.co" tvg-name="HBO_POP_HD_MX" tvg-logo="https://tigoco.zendesk.com/hc/article_attachments/360056464914/hbo-pop.png", HBO_POP_HD_MX
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159836
+#EXTINF: -1 tvg-id="hbo.co" tvg-name="HBO_HD_MX" tvg-logo="https://png.pngitem.com/pimgs/s/153-1531084_logopedia10-hbo-2-hd-logo-hd-png-download.png", HBO_HD_MX
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159837
+#EXTINF: -1 tvg-id="tnt.co" tvg-name="TNT_SERIES_HD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt-series_m.png", TNT_SERIES_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159838
+#EXTINF: -1 tvg-id="espn.co" tvg-name="ESPN_HD" tvg-logo="https://w7.pngwing.com/pngs/318/371/png-transparent-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text-logo.png", ESPN_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159839
+#EXTINF: -1 tvg-name="FOXSP1 MXHD" tvg-logo="https://static.wixstatic.com/media/905b97_4a933d16efde4cc8a9b911b8bc74e213~mv2.png/v1/fit/w_2500,h_1330,al_c/905b97_4a933d16efde4cc8a9b911b8bc74e213~mv2.png", FOXSP1 MXHD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159840
+#EXTINF: -1 tvg-id="hbomundi.co" tvg-name="HBO_MUNDI_HD_MX" tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-max.jpg", HBO_MUNDI_HD_MX
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159842
+#EXTINF: -1 tvg-id="hbo.co" tvg-name="HBO_HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-oeste-hd_m.png", HBO_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159843
+#EXTINF: -1 tvg-id="discoveryscience.co" tvg-name="DISCOVERY_CIVILIZATION" tvg-logo="https://aquitemfofoca.com.br/wp-content/uploads/2019/10/images-2-1.jpg", DISCOVERY_CIVILIZATION
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159844
+#EXTINF: -1 tvg-id="discoveryscience.co" tvg-name="DISCOVERY_SCIENCE" tvg-logo="https://corporate.discovery.com/wp-content/uploads/2014/02/science_channel_redux_logo_detail.jpg", DISCOVERY_SCIENCE
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159845
+#EXTINF: -1 tvg-id="tcm.co" tvg-name="tcm" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2019/08/canal-tcm-vector-logo.png", tcm
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159846
+#EXTINF: -1 tvg-name="MAX" tvg-logo="https://www.logotypes101.com/logos/204/EF8E57A7F01BE270F597717B28A84D16/max.png", MAX
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159848
+#EXTINF: -1 tvg-name="ALJAZEERA" tvg-logo="https://m.media-amazon.com/images/I/31AIdoYz1sL.png", ALJAZEERA
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159849
+#EXTINF: -1 tvg-id="boomerang.co" tvg-name="BOOMERANG_HD" tvg-logo="https://www.kindpng.com/picc/m/419-4190775_transparent-boomerang-logo-png-boomerang-logo-transparent-png.png", BOOMERANG_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159851
+#EXTINF: -1 tvg-name="TV5" tvg-logo="http://assets.stickpng.com/thumbs/5a5b8ead14d8c4188e0b0938.png", TV5
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159852
+#EXTINF: -1 tvg-id="cinemaplus.do" tvg-name="CINEMAPLUS" tvg-logo="http://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png", CINEMAPLUS
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159853
+#EXTINF: -1 tvg-id="cinemaplus.do" tvg-name="CINELATINO" tvg-logo="https://golatinotv.com/wp-content/uploads/2021/02/cinelatino-min.png", CINELATINO
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159854
+#EXTINF: -1 tvg-id="telecaribe.co" tvg-name="TELECARIBE_HD" tvg-logo="https://static.wixstatic.com/media/61a456_b830c605b75d4775b82e4ebd6e64ee32~mv2.jpg/v1/crop/x_0,y_148,w_2251,h_1955/fill/w_296,h_264,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/IMAGEN%20PERFIL%20REDES%20SOCIALES%20TELECARIBE%2002.jpg", TELECARIBE_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159855
+#EXTINF: -1 tvg-id="rcnnovelas.co" tvg-name="TLNOVELAS" tvg-logo="https://cdn.mitvstatic.com/channels/6b9cacbc-43d6-4117-8f85-2f39cf26eaf1_m.jpg", TLNOVELAS
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159856
+#EXTINF: -1 tvg-name="RADIOLA" tvg-logo="http://m1.myradiola.com/img/prestashop-logo-1620737576.jpg", RADIOLA
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159858
+#EXTINF: -1 tvg-id="cinemax.co" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/pmdbNm4.jpg", CINEMAX
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159859
+#EXTINF: -1 tvg-id="telecafe.co" tvg-name="TELECAFE_HD" tvg-logo="https://i.pinimg.com/originals/2e/62/2f/2e622f7df9cccf17e99d8a3456344754.png", TELECAFE_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159860
+#EXTINF: -1 tvg-id="telepacifico.co" tvg-name="TELEPACIFICO_HD" tvg-logo="https://telepacifico.com/veo/wp-content/uploads/2016/12/logo.png", TELEPACIFICO_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159861
+#EXTINF: -1 tvg-id="teleantioquia.co" tvg-name="TELEAMIGA" tvg-logo="https://teleamiga.tv/wp-content/uploads/2022/03/cropped-teleamiga-web-logo-01-1.png", TELEAMIGA
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159862
+#EXTINF: -1 tvg-name="MULTIPREMIER" tvg-logo="https://multipremier.com/wp-content/uploads/2020/10/cropped-mp.png", MULTIPREMIER
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159863
+#EXTINF: -1 tvg-name="CERTV" tvg-logo="https://gobernanzasdigital.com/wp-content/uploads/2020/09/CERTV_logo.jpg", CERTV
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159864
+#EXTINF: -1 tvg-name="CDNSPORTSMAX" tvg-logo="https://3.bp.blogspot.com/-l9BVoyamVcI/VuHeZ4Su-_I/AAAAAAAAAsY/90amsNQHOKE/s1600/CDN-SportsMix-Logo.jpg", CDNSPORTSMAX
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159865
+#EXTINF: -1 tvg-name="BARKER" tvg-logo="https://static.wixstatic.com/media/73f994_159baf0cc66d446996af17537a83e452~mv2.png/v1/fill/w_265,h_265,al_c/Logook%20(6).png", BARKER
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159867
+#EXTINF: -1 tvg-id="canaltro.co" tvg-name="TRO_HD" tvg-logo="https://www.pngkey.com/png/detail/678-6789763_canal-tro-hd.png", TRO_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159868
+#EXTINF: -1 tvg-name="CDNHD" tvg-logo="https://www.pngall.com/wp-content/uploads/13/CDN-PNG-Clipart.png", CDNHD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159869
+#EXTINF: -1 tvg-id="eltiempo.co" tvg-name="TIEMPO_TV" tvg-logo="https://www.fenixvalor.com/wp-content/uploads/2013/06/ET-DEL-TIEMPO.png", TIEMPO_TV
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159870
+#EXTINF: -1 tvg-name="ISAT" tvg-logo="https://cdn.mitvstatic.com/channels/br_i-sat_m.png", ISAT
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159871
+#EXTINF: -1 tvg-id="pasiones.co" tvg-name="PASIONES_HD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png", PASIONES_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159872
+#EXTINF: -1 tvg-id="foxsports3conosur.co" tvg-name="FOX_SPORTS3_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png", FOX_SPORTS3_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159873
+#EXTINF: -1 tvg-id="foxsports2conosur.co" tvg-name="FOX_SPORTS2_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Fox_sports_2.png", FOX_SPORTS2_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159874
+#EXTINF: -1 tvg-id="cinemax.co" tvg-name="MAX_UP_HD" tvg-logo="https://skybr.com.br/img/channels/lg-277-canal-max-up-hd.png", MAX_UP_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159875
+#EXTINF: -1 tvg-id="cinemax.co" tvg-name="CINEMAX_HD" tvg-logo="https://p.kindpng.com/picc/s/287-2873736_cinemax-logo-hd-png-download.png", CINEMAX_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159876
+#EXTINF: -1 tvg-id="cinemax.co" tvg-name="MAX_PRIME_HD" tvg-logo="https://p.kindpng.com/picc/s/221-2214199_prime-video-logo-png-max-prime-transparent-png.png", MAX_PRIME_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159877
+#EXTINF: -1 tvg-id="foxsportsconosur.co" tvg-name="FOX_SPORTS_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png", FOX_SPORTS_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159878
+#EXTINF: -1 tvg-id="paramountchannel.co" tvg-name="PARAMOUNT_HD" tvg-logo="https://www.pngkey.com/png/full/721-7210998_paramount-channel-france.png", PARAMOUNT_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159879
+#EXTINF: -1 tvg-id="maschic.co" tvg-name="MASCHIC_HD" tvg-logo="https://eslanota.com/wp-content/uploads/2020/04/co_mas-chic_m.png", MASCHIC_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159881
+#EXTINF: -1 tvg-id="studiouniversal.co" tvg-name="STUDIO_UNIVERSAL_HD" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_1201_7_9711.png", STUDIO_UNIVERSAL_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159882
+#EXTINF: -1 tvg-id="sony.co" tvg-name="SONY_HD" tvg-logo="https://www.seekpng.com/png/full/274-2748692_sony-hd-sony-pictures-network-logo.png", SONY_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159883
+#EXTINF: -1 tvg-id="universalchannel.co" tvg-name="UNIVERSAL_REALITY_HD" tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.1900466692_UniversalReality.png.4589a40c388f30c4a4529ab027716a02.png", UNIVERSAL_REALITY_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159885
+#EXTINF: -1 tvg-id="universalchannel.co" tvg-name="UNIVERSAL_COMEDY_HD" tvg-logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_COMEDY.png.533fc9f53f261cd502372e7eb4c23d09.png", UNIVERSAL_COMEDY_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159886
+#EXTINF: -1 tvg-id="history2.co.co" tvg-name="H2_HD" tvg-logo="https://www.nicepng.com/png/detail/177-1779538_h2more2history-h2-hd.png", H2_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159887
+#EXTINF: -1 tvg-id="mtv.co" tvg-name="MTV_HD" tvg-logo="https://seeklogo.com/images/M/mtv-hd-logo-0CFFA28044-seeklogo.com.png", MTV_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159888
+#EXTINF: -1 tvg-id="universalchannel.co" tvg-name="UNIVERSAL_PREMIER_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", UNIVERSAL_PREMIER_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159889
+#EXTINF: -1 tvg-name="UNIVERSAL_PREMIER_HD_MX" tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.604426719_UniversalPremiere.png.12f05e2df4549f210ad2f2219770e237.png", UNIVERSAL_PREMIER_HD_MX
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159891
+#EXTINF: -1 tvg-id="universalchannel.co" tvg-name="UNIVERSAL_CRIME_HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/small.139088045_UniversalCrime-Oscuro.png.b98d5401ede096af7197e12256a6ec37.png", UNIVERSAL_CRIME_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159892
+#EXTINF: -1 tvg-id="goldenpremier.co" tvg-name="GOLDEN_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Golden_hd.png", GOLDEN_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159893
+#EXTINF: -1 tvg-id="mtvlivehd.co" tvg-name="MTV_LIVE_HD" tvg-logo="https://www.seekpng.com/png/detail/57-579021_file-mtv-live-svg-mtv-live-logo-png.png", MTV_LIVE_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159894
+#EXTINF: -1 tvg-id="space.co" tvg-name="SPACE_HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png", SPACE_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159895
+#EXTINF: -1 tvg-id="universalchannel.co" tvg-name="UNIVERSAL_CRIME_HD_MX" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.139088045_UniversalCrime-Oscuro.png.96c4b094012fd66c70e7837081865a12.png", UNIVERSAL_CRIME_HD_MX
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159896
+#EXTINF: -1 tvg-id="vh1.co" tvg-name="VH1_HD" tvg-logo="https://www.nicepng.com/png/detail/272-2722033_vh1-hd.png", VH1_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159897
+#EXTINF: -1 tvg-id="universalchannel.co" tvg-name="UNIVERSAL_CINEMA_HD" tvg-logo="https://www.directv.com.co/content/dam/public-sites/channels/572.png", UNIVERSAL_CINEMA_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159898
+#EXTINF: -1 tvg-id="warnerchannel.co" tvg-name="WARNER_HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner-hd_m.png", WARNER_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159899
+#EXTINF: -1 tvg-id="tlc.co" tvg-name="TLC_HD" tvg-logo="https://www.kindpng.com/picc/m/249-2498159_tlc-logo-png-transparent-png.png", TLC_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159900
+#EXTINF: -1 tvg-id="history2.co.co" tvg-name="H2_HD" tvg-logo="https://www.nicepng.com/png/detail/177-1779538_h2more2history-h2-hd.png", H2_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159901
+#EXTINF: -1 tvg-id="cinemadinamita.co" tvg-name="MULTICINEMAHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png", MULTICINEMAHD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159904
+#EXTINF: -1 tvg-id="vh1classicusa.co" tvg-name="VH1_CLASSIC" tvg-logo="https://www.kindpng.com/picc/m/296-2960817_vh1-classic-tv-logo-hd-png-download.png", VH1_CLASSIC
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159905
+#EXTINF: -1 tvg-id="nuestratelenoticias24.co" tvg-name="NTN24" tvg-logo="https://imagenesntn24.canalrcn.com/ImgNtn24/asset/990X557.png", NTN24
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159906
+#EXTINF: -1 tvg-id="tcm.co" tvg-name="TCM" tvg-logo="https://cdn.mitvstatic.com/channels/68f8250b-5ab3-4d48-ae1c-281e6a9422c2_m.jpg", TCM
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159907
+#EXTINF: -1 tvg-id="glitz.co" tvg-name="GLITZ" tvg-logo="https://www.glitztvla.com/images/logo.png", GLITZ
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159908
+#EXTINF: -1 tvg-id="mtvlivehd.co" tvg-name="MTV_HITS" tvg-logo="https://cdn.mitvstatic.com/channels/ar_mtv-hits_m.png", MTV_HITS
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159910
+#EXTINF: -1 tvg-id="tbs.co" tvg-name="TBS_HD" tvg-logo="https://www.nicepng.com/png/full/177-1773667_tbs-logo.png", TBS_HD
+#EXTGRP:Colombia
+http://iptvglobal.site:25461/Joseramos01/Joseramos2314/159912
